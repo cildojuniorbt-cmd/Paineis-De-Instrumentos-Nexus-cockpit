@@ -11,6 +11,10 @@ Os painéis aparecem automaticamente na aba **Painéis da comunidade** do app.
 | `miniaturas/`                 | A imagem de prévia de cada painel (JPG ou PNG)         |
 | **Releases** (tag `Painéis`)  | Os arquivos `.simhubdash` e o APK do app               |
 
+## Abas do catálogo
+
+O catálogo tem duas abas: **Painéis** (lista `paineis`) e **Button Box** (lista `buttonbox`, ainda vazia). Os itens de Button Box usam os mesmos campos dos painéis (`id`, `nome`, `autor`, `descricao`, `versao`, `atualizado`, `jogos`, `miniatura`, `arquivo`). A lista `abas` diz ao app quais abas mostrar.
+
 ## Como adicionar um painel
 
 > Deixe a **tradução automática do navegador desligada** no GitHub: ela traduz até o código e pode estragar o `catalogo.json`.
