@@ -47,6 +47,18 @@
       "tamanhoMB": 16,
       "miniatura": "miniaturas/nexus_cockpit_a3.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A3.simhubdash"
+    },
+    {
+      "id": "nexus_cockpit_a4",
+      "nome": "Nexus Cockpit A4",
+      "autor": "Cildo Jr",
+      "descricao": "Painel em 6 cores (prata, verde, vermelho, laranja, dourado e azul): RPM em arco, velocidade, cruise, navegação, combustível, AdBlue, temperatura, óleo e viagem. Troca de cor por toque nos pontinhos, logo de boas-vindas e luzes apagadas até ligar o caminhão.",
+      "versao": "1.0",
+      "atualizado": "2026-11-07",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 30,
+      "miniatura": "miniaturas/nexus_cockpit_a4.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A4.simhubdash"
     }
   ],
   "abas": [
