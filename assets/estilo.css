@@ -96,7 +96,8 @@ footer a { color: var(--sec); margin-right: 16px; }
 .trilha a:hover { color: var(--texto); }
 
 /* home da empresa */
-.hero.empresa { padding: 110px 0 70px; }
+.hero.empresa { padding: 70px 0 70px; }
+.simbolo-empresa { width: min(240px, 55vw); display: block; margin: 0 auto 26px; filter: drop-shadow(0 0 30px rgba(40,140,255,.35)); }
 .selo { color: var(--ciano); letter-spacing: 3px; font-size: 13px; font-weight: 600; margin: 0; }
 .hero h1.nome { font-size: clamp(38px, 7vw, 76px); letter-spacing: 4px; margin: 14px 0 14px; text-shadow: 0 0 40px rgba(40,140,255,.35); }
 .hero h1.nome span { background: linear-gradient(135deg, var(--ciano), var(--azul)); -webkit-background-clip: text; background-clip: text; color: transparent; }
