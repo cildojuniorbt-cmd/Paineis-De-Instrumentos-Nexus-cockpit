@@ -3,7 +3,7 @@
   "paineis": [
     {
       "id": "nexus_cockpit",
-      "nome": "Nexus Cockpit",
+      "nome": "Nexus Cockpit A1",
       "autor": "Cildo Jr",
       "descricao": "Painel digital com 5 páginas: computador de bordo, cruise control, navegação, multimídia e visão geral, mais a página de Manutenção.",
       "versao": "1.0",
@@ -12,6 +12,17 @@
       "tamanhoMB": 28,
       "miniatura": "miniaturas/nexus_cockpit.jpg",
       "arquivo": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/nexus_cockpit.A1.simhubdash"
+    },
+    {
+      "id": "scania_113h",
+      "nome": "Scania 113H",
+      "autor": "Cildo Jr",
+      "descricao": "Painel clássico do Scania 113H.",
+      "versao": "1.0",
+      "atualizado": "2026-11-06",
+      "jogos": "ETS2",
+      "miniatura": "miniaturas/scania_113h.jpg",
+      "arquivo": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/Scania_113H.simhubdash"
     }
   ]
 }
