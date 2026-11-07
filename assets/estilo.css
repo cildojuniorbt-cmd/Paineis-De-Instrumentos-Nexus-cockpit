@@ -110,7 +110,8 @@ a.app:hover { transform: translateY(-3px); border-color: var(--azul); }
 .app .capa.vazia span { color: var(--sec); letter-spacing: 4px; font-weight: 700; }
 .app .corpo { padding: 20px 22px 22px; }
 .app .titulo { display: flex; gap: 12px; align-items: center; margin-bottom: 10px; }
-.app .titulo img, .simbolo-vazio { width: 46px; height: 46px; border-radius: 10px; }
+.app .titulo img { height: 50px; width: auto; flex: none; }
+.simbolo-vazio { width: 46px; height: 46px; border-radius: 10px; flex: none; }
 .simbolo-vazio { display: grid; place-items: center; border: 1px dashed var(--borda); color: var(--sec); font-weight: 700; }
 .app h3 { margin: 0; font-size: 21px; }
 .app .tag { font-size: 12px; color: var(--ciano); font-weight: 600; }
