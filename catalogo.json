@@ -14,6 +14,18 @@
       "arquivo": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/nexus_cockpit.A1.simhubdash"
     },
     {
+      "id": "nexus_cockpit_a2",
+      "nome": "Nexus Cockpit A2",
+      "autor": "Cildo Jr",
+      "descricao": "Cluster analógico com detalhes em vermelho e 5 páginas: computador de bordo, cruise control, manutenção e painel completo. Luzes e logo de boas-vindas ao ligar a chave.",
+      "versao": "1.0",
+      "atualizado": "2026-11-07",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 34,
+      "miniatura": "miniaturas/nexus_cockpit_a2.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash"
+    },
+    {
       "id": "scania_113h",
       "nome": "Scania 113H",
       "autor": "Cildo Jr",
