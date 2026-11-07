@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://cildojuniorbt-cmd.github.io/Paineis-De-Instrumentos-Nexus-cockpit/sitemap.xml
