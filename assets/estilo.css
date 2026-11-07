@@ -88,7 +88,38 @@ footer a { color: var(--sec); margin-right: 16px; }
 .texto .data { color: var(--sec); }
 .destaque { background: var(--cartao); border: 1px solid var(--borda); border-left: 4px solid var(--azul); border-radius: 10px; padding: 16px 18px; }
 
+/* marca da empresa */
+.nwd { font-weight: 700; letter-spacing: 2px; font-size: 16px; }
+.nwd b { color: var(--ciano); }
+.trilha { font-size: 13px; color: var(--sec); padding-top: 14px; }
+.trilha a { color: var(--sec); text-decoration: none; }
+.trilha a:hover { color: var(--texto); }
+
+/* home da empresa */
+.hero.empresa { padding: 110px 0 70px; }
+.selo { color: var(--ciano); letter-spacing: 3px; font-size: 13px; font-weight: 600; margin: 0; }
+.hero h1.nome { font-size: clamp(38px, 7vw, 76px); letter-spacing: 4px; margin: 14px 0 14px; text-shadow: 0 0 40px rgba(40,140,255,.35); }
+.hero h1.nome span { background: linear-gradient(135deg, var(--ciano), var(--azul)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+
+.apps { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px; }
+.app { display: flex; flex-direction: column; background: var(--cartao); border: 1px solid var(--borda); border-radius: 16px; overflow: hidden; text-decoration: none; color: var(--texto); transition: transform .15s, border-color .15s; }
+a.app:hover { transform: translateY(-3px); border-color: var(--azul); }
+.app .capa { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; border-bottom: 1px solid var(--borda); }
+.app .capa.vazia { display: grid; place-items: center; background: repeating-linear-gradient(45deg, #0a101c, #0a101c 12px, #0c1322 12px, #0c1322 24px); }
+.app .capa.vazia span { color: var(--sec); letter-spacing: 4px; font-weight: 700; }
+.app .corpo { padding: 20px 22px 22px; }
+.app .titulo { display: flex; gap: 12px; align-items: center; margin-bottom: 10px; }
+.app .titulo img, .simbolo-vazio { width: 46px; height: 46px; border-radius: 10px; }
+.simbolo-vazio { display: grid; place-items: center; border: 1px dashed var(--borda); color: var(--sec); font-weight: 700; }
+.app h3 { margin: 0; font-size: 21px; }
+.app .tag { font-size: 12px; color: var(--ciano); font-weight: 600; }
+.app .tag.cinza { color: var(--sec); }
+.app p { color: var(--sec); margin: 0 0 12px; font-size: 15px; }
+.app .ver { color: var(--ciano); font-weight: 600; }
+.app.embreve { opacity: .75; }
+
 @media (max-width: 640px) {
+  .nwd { font-size: 13px; letter-spacing: 1px; }
   header.topo nav a { margin-left: 12px; font-size: 14px; }
   header.topo nav a.ocultar { display: none; }
 }
