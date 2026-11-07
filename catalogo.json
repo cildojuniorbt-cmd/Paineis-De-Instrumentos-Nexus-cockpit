@@ -1,0 +1,17 @@
+{
+  "versaoCatalogo": 1,
+  "paineis": [
+    {
+      "id": "nexus_cockpit",
+      "nome": "Nexus Cockpit",
+      "autor": "Cildo Jr",
+      "descricao": "Painel digital com 5 páginas: computador de bordo, cruise control, navegação, multimídia e visão geral, mais a página de Manutenção.",
+      "versao": "1.0",
+      "atualizado": "2026-11-06",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 28,
+      "miniatura": "miniaturas/nexus_cockpit.jpg",
+      "arquivo": "nexus_cockpit.simhubdash"
+    }
+  ]
+}
