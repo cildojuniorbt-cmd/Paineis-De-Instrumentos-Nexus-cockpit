@@ -75,14 +75,14 @@
   ],
   "buttonbox": [],
   "app": {
-    "versao": "1.8.0",
-    "codigo": 8,
+    "versao": "1.8.1",
+    "codigo": 9,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Smart Fuel, HUD, Component Simulation, modos de condução (com botão e painel por modo), copiloto por voz, perfil e chave digital, assistente de manobra e força no volante. Atualize também o programa do PC (instalador 1.8.0) no site."
+    "notas": "Atualização automática: o app agora baixa e instala as próximas versões sozinho. Suporte completo ao painel A5 com dados reais (modos, viagem, manutenção, perfil). Atualize também o programa do PC."
   },
   "programa": {
-    "versao": "1.8.0",
+    "versao": "1.8.1",
     "instalador": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit_Setup.exe",
-    "notas": ""
+    "notas": "O programa agora avisa e instala as próximas versões sozinho (programa e plugin do jogo juntos)."
   }
 }
