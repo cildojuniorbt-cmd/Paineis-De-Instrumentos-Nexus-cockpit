@@ -6,12 +6,12 @@
       "nome": "Nexus Cockpit A1",
       "autor": "Cildo Jr",
       "descricao": "Painel digital com 5 páginas: computador de bordo, cruise control, navegação, multimídia e visão geral, mais a página de Manutenção.",
-      "versao": "1.0",
-      "atualizado": "2026-11-06",
+      "versao": "1.1",
+      "atualizado": "2026-11-10",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 28,
       "miniatura": "miniaturas/nexus_cockpit.jpg",
-      "arquivo": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/nexus_cockpit.A1.simhubdash"
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A1.simhubdash"
     },
     {
       "id": "nexus_cockpit_a2",
