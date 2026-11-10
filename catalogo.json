@@ -73,5 +73,11 @@
       "lista": "buttonbox"
     }
   ],
-  "buttonbox": []
+  "buttonbox": [],
+  "app": {
+    "versao": "1.8.0",
+    "codigo": 8,
+    "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
+    "notas": "Smart Fuel, HUD, Component Simulation, modos de condução (com botão e painel por modo), copiloto por voz, perfil e chave digital, assistente de manobra e força no volante. Atualize também o programa do PC (instalador 1.8.0) no site."
+  }
 }
