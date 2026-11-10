@@ -59,6 +59,18 @@
       "tamanhoMB": 30,
       "miniatura": "miniaturas/nexus_cockpit_a4.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A4.simhubdash"
+    },
+    {
+      "id": "nexus_cockpit_a5",
+      "nome": "Nexus Cockpit A5",
+      "autor": "Cildo Jr",
+      "descricao": "Painel completo com 4 modos de condução (Eco, Comfort, Sport e Heavy), cada um com sua cor, e 5 páginas: cockpit, viagem, veículo, manutenção e modos. Usa os recursos do Nexus: Smart Fuel, perfil, nota de condução, dicas, desgaste das peças e ângulo da carreta. Toque no logo troca o modo. Requer app 1.8.1.",
+      "versao": "1.0",
+      "atualizado": "2026-11-10",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 50,
+      "miniatura": "miniaturas/nexus_cockpit_a5.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A5.simhubdash"
     }
   ],
   "abas": [
