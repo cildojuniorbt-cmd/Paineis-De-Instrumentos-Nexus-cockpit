@@ -87,17 +87,24 @@
   ],
   "buttonbox": [],
   "app": {
-    "versao": "1.8.1",
-    "codigo": 9,
+    "versao": "1.9.0",
+    "codigo": 10,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Atualização automática: o app agora baixa e instala as próximas versões sozinho. Suporte completo ao painel A5 com dados reais (modos, viagem, manutenção, perfil). Atualize também o programa do PC."
+    "notas": "Tela inicial nova: foto do motorista, banner, atalhos e barra de navegação. Sininho com novidades: atualizações, painéis novos e notícias."
   },
   "programa": {
-    "versao": "1.8.1",
+    "versao": "1.9.0",
     "instalador": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit_Setup.exe",
-    "notas": "O programa agora avisa e instala as próximas versões sozinho (programa e plugin do jogo juntos)."
+    "notas": "Novidades no menu lateral: notícias e avisos do Nexus Cockpit aparecem direto no programa."
   },
   "noticias": [
+    {
+      "id": "2026-11-10-v190",
+      "data": "2026-11-10",
+      "titulo": "Nexus Cockpit 1.9.0",
+      "texto": "App com tela inicial nova e sininho de novidades. Programa do PC com avisos de notícias. A atualização chega sozinha.",
+      "onde": "todos"
+    },
     {
       "id": "2026-11-10-a5",
       "data": "2026-11-10",
