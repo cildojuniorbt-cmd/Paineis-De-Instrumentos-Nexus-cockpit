@@ -100,7 +100,185 @@
       "lista": "buttonbox"
     }
   ],
-  "buttonbox": [],
+  "buttonbox": [
+    {
+      "id": "btb002",
+      "nome": "Nexus BTB 002",
+      "autor": "Cildo Jr",
+      "descricao": "Painel de botões completo com velocímetro e computador de bordo ao vivo, iluminação, sinalização, condução e câmeras.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.3,
+      "miniatura": "miniaturas/btb_002.jpg",
+      "pasta": "buttonbox/btb002/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb003",
+      "nome": "Nexus BTB 003",
+      "autor": "Cildo Jr",
+      "descricao": "Button Box com cluster analógico, viagem ao vivo (odômetro, consumo, combustível) e todos os botões do caminhão.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.3,
+      "miniatura": "miniaturas/btb_003.jpg",
+      "pasta": "buttonbox/btb003/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb004",
+      "nome": "Nexus BTB 004",
+      "autor": "Cildo Jr",
+      "descricao": "Button Box com mostradores e dados da viagem ao vivo, iluminação, cruise control, retarder e eixos.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.4,
+      "miniatura": "miniaturas/btb_004.jpg",
+      "pasta": "buttonbox/btb004/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb005",
+      "nome": "Nexus BTB 005",
+      "autor": "Cildo Jr",
+      "descricao": "Layout compacto com velocímetro e conta-giros ao vivo, botões grandes e cruise control.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.3,
+      "miniatura": "miniaturas/btb_005.jpg",
+      "pasta": "buttonbox/btb005/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb006",
+      "nome": "Nexus BTB 006",
+      "autor": "Cildo Jr",
+      "descricao": "Button Box laranja clássico: iluminação, sinalização, para-brisa, buzina, cruise, caminhão, câmeras, volume e rádio.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.3,
+      "miniatura": "miniaturas/btb_006.jpg",
+      "pasta": "buttonbox/btb006/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb007",
+      "nome": "Nexus BTB 007",
+      "autor": "Cildo Jr",
+      "descricao": "Cockpit com velocímetro, conta-giros e viagem ao vivo, seletor R/N/D e botão Engine Start/Stop.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.4,
+      "miniatura": "miniaturas/btb_007.jpg",
+      "pasta": "buttonbox/btb007/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb008",
+      "nome": "Nexus BTB 008",
+      "autor": "Cildo Jr",
+      "descricao": "Button Box azul com viagem atual ao vivo, iluminação, condução, cabine, carreta e rádio do jogo.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.4,
+      "miniatura": "miniaturas/btb_008.jpg",
+      "pasta": "buttonbox/btb008/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb009",
+      "nome": "Nexus BTB 009",
+      "autor": "Cildo Jr",
+      "descricao": "Layout em colunas com viagem ao vivo, marcha e rpm, Engine Start/Stop e controles da carreta.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.4,
+      "miniatura": "miniaturas/btb_009.jpg",
+      "pasta": "buttonbox/btb009/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb010",
+      "nome": "Nexus BTB 010",
+      "autor": "Cildo Jr",
+      "descricao": "Button Box laranja com viagem ao vivo, modos ECO/POWER, iluminação, eixos e carreta.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.3,
+      "miniatura": "miniaturas/btb_010.jpg",
+      "pasta": "buttonbox/btb010/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb011",
+      "nome": "Nexus BTB 011",
+      "autor": "Cildo Jr",
+      "descricao": "Button Box roxo/azul com viagem ao vivo, vidros separados por lado e botões grandes de motor e freio.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.3,
+      "miniatura": "miniaturas/btb_011.jpg",
+      "pasta": "buttonbox/btb011/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
+    },
+    {
+      "id": "btb012",
+      "nome": "Nexus BTB 012",
+      "autor": "Cildo Jr",
+      "descricao": "Truck OS: velocímetro, conta-giros, manutenção, Smart Fuel, viagem, modos de condução e estado do conjunto, tudo ao vivo.",
+      "versao": "1.0",
+      "atualizado": "2026-11-11",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.6,
+      "miniatura": "miniaturas/btb_012.jpg",
+      "pasta": "buttonbox/btb012/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg",
+        "pagina1_aceso.jpg"
+      ]
+    }
+  ],
   "app": {
     "versao": "1.9.5",
     "codigo": 15,
