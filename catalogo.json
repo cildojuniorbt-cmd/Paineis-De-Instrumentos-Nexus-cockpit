@@ -87,10 +87,10 @@
   ],
   "buttonbox": [],
   "app": {
-    "versao": "1.9.0",
-    "codigo": 10,
+    "versao": "1.9.1",
+    "codigo": 11,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Tela inicial nova: foto do motorista, banner, atalhos e barra de navegação. Sininho com novidades: atualizações, painéis novos e notícias."
+    "notas": "Tela inicial nova com sininho de novidades. A opção \"Importar painel\" agora fica escondida e pode ser ligada em Configurações. Nomes dos botões ajustados."
   },
   "programa": {
     "versao": "1.9.0",
