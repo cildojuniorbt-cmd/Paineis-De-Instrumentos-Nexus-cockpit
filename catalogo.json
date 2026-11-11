@@ -105,7 +105,7 @@
     "versao": "1.9.5",
     "codigo": 15,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Painéis ganham animação de ligar e desligar junto com o caminhão (suporte à função changed do SimHub). Também faz a tela de boas-vindas dos painéis A3 e A5 aparecer no app."
+    "notas": "Painéis agora ligam e desligam junto com o caminhão, com animação de abertura. A tela de boas-vindas dos painéis A3 e A5 também passa a aparecer no app."
   },
   "programa": {
     "versao": "1.9.1",
