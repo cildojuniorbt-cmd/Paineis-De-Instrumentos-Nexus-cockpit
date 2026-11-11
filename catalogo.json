@@ -87,15 +87,15 @@
   ],
   "buttonbox": [],
   "app": {
-    "versao": "1.9.1",
-    "codigo": 11,
+    "versao": "1.9.2",
+    "codigo": 12,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Tela inicial nova com sininho de novidades. A opção \"Importar painel\" agora fica escondida e pode ser ligada em Configurações. Nomes dos botões ajustados."
+    "notas": "No sininho: botão \"Baixar e instalar\" quando tem atualização e \"Procurar atualização\" quando não tem."
   },
   "programa": {
-    "versao": "1.9.0",
+    "versao": "1.9.1",
     "instalador": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit_Setup.exe",
-    "notas": "Novidades no menu lateral: notícias e avisos do Nexus Cockpit aparecem direto no programa."
+    "notas": "Botão \"Procurar atualização\" na página Sobre e botão \"Baixar e instalar\" direto nas Novidades."
   },
   "noticias": [
     {
