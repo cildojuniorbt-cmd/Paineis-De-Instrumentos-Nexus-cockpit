@@ -23,7 +23,8 @@
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 34,
       "miniatura": "miniaturas/nexus_cockpit_a2.jpg",
-      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash"
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash",
+      "novidades": "Data corrigida no app (agora 07/11/2026)."
     },
     {
       "id": "scania_113h",
@@ -58,7 +59,8 @@
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 49,
       "miniatura": "miniaturas/nexus_cockpit_a4.jpg",
-      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A4.simhubdash"
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A4.simhubdash",
+      "novidades": "4 páginas por modo (Cockpit, Veículo, Manutenção e Modos). Telas nomeadas por modo para o app trocar sozinho. Pontinhos trocam o modo e o botão MAIS abre a página Veículo. Data no formato 07/11/2026."
     },
     {
       "id": "nexus_cockpit_a5",
@@ -82,7 +84,8 @@
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 4,
       "miniatura": "miniaturas/nexus_cockpit_a6.jpg",
-      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A6.simhubdash"
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A6.simhubdash",
+      "novidades": "Painel novo com mapa ao vivo no centro (precisa do app atualizado)."
     }
   ],
   "abas": [
@@ -127,6 +130,27 @@
       "data": "2026-11-10",
       "titulo": "Painel Nexus Cockpit A5 chegou",
       "texto": "Painel com 4 modos de condução (Eco, Comfort, Sport e Heavy), 5 páginas e dados reais do Nexus. Baixe em Painéis da comunidade.",
+      "onde": "todos"
+    },
+    {
+      "id": "2026-11-11-a4v22",
+      "data": "2026-11-11",
+      "titulo": "Painel A4 atualizado (v2.2)",
+      "texto": "4 páginas por modo (Cockpit, Veículo, Manutenção e Modos). Telas nomeadas por modo para o app trocar sozinho. Pontinhos trocam o modo e o botão MAIS abre a página Veículo. Data no formato 07/11/2026. Atualize em Painéis da comunidade.",
+      "onde": "todos"
+    },
+    {
+      "id": "2026-11-11-a6",
+      "data": "2026-11-11",
+      "titulo": "Painel A6 com mapa chegou",
+      "texto": "Painel com mapa ao vivo no centro, velocímetro e conta-giros em arco. O mapa aparece a partir da próxima versão do app. Baixe em Painéis da comunidade.",
+      "onde": "todos"
+    },
+    {
+      "id": "2026-11-11-a2v16",
+      "data": "2026-11-11",
+      "titulo": "Painel A2 atualizado (v1.6)",
+      "texto": "Data corrigida no app (agora 07/11/2026).",
       "onde": "todos"
     }
   ],
