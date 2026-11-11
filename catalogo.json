@@ -102,10 +102,10 @@
   ],
   "buttonbox": [],
   "app": {
-    "versao": "1.9.2",
-    "codigo": 12,
+    "versao": "1.9.4",
+    "codigo": 14,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "No sininho: botão \"Baixar e instalar\" quando tem atualização e \"Procurar atualização\" quando não tem."
+    "notas": "Mapa dentro dos painéis (item nexus_mapa, já no painel A6) e novidades de cada painel no sininho e na aba Comunidade."
   },
   "programa": {
     "versao": "1.9.1",
@@ -118,6 +118,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-11-app194",
+      "data": "2026-11-11",
+      "titulo": "Nexus Cockpit 1.9.4",
+      "texto": "Mapa dentro dos painéis (item nexus_mapa, já no painel A6) e novidades de cada painel no sininho e na aba Comunidade. A atualização chega sozinha.",
+      "onde": "todos"
+    },
     {
       "id": "2026-11-10-v190",
       "data": "2026-11-10",
