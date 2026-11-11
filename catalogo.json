@@ -79,13 +79,13 @@
       "nome": "Nexus Cockpit A6",
       "autor": "Cildo Jr",
       "descricao": "Painel com mapa ao vivo no centro (no app Nexus Cockpit), velocímetro e conta-giros em arco, luzes do painel, combustível, água, óleo, bateria, ar e AdBlue, e a faixa de viagem com destino, distância, chegada e tempo.",
-      "versao": "1.2",
+      "versao": "1.3",
       "atualizado": "2026-11-11",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 4.7,
+      "tamanhoMB": 11.7,
       "miniatura": "miniaturas/nexus_cockpit_a6.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A6.simhubdash",
-      "novidades": "Arcos de velocidade e RPM agora mudam de cor com o modo de condução (Eco verde, Comfort azul, Sport vermelho, Heavy dourado)."
+      "novidades": "Luzes e brilho da moldura agora mudam de cor com o modo de condução, junto com os arcos e o ícone (Eco verde, Comfort azul, Sport vermelho, Heavy dourado)."
     }
   ],
   "abas": [
@@ -118,6 +118,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-11-a6v13",
+      "data": "2026-11-11",
+      "titulo": "Painel A6 v1.3",
+      "texto": "Luzes e brilho da moldura agora mudam de cor com o modo de condução, junto com os arcos e o ícone (Eco verde, Comfort azul, Sport vermelho, Heavy dourado).",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-11-a6v12",
       "data": "2026-11-11",
