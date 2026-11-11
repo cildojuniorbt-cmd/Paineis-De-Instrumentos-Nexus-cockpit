@@ -79,13 +79,13 @@
       "nome": "Nexus Cockpit A6",
       "autor": "Cildo Jr",
       "descricao": "Painel com mapa ao vivo no centro (no app Nexus Cockpit), velocímetro e conta-giros em arco, luzes do painel, combustível, água, óleo, bateria, ar e AdBlue, e a faixa de viagem com destino, distância, chegada e tempo.",
-      "versao": "1.4",
+      "versao": "1.5",
       "atualizado": "2026-11-11",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 12.0,
       "miniatura": "miniaturas/nexus_cockpit_a6.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A6.simhubdash",
-      "novidades": "Painel apaga quando o caminhão desliga e acende com logo e varredura dos arcos quando liga. Wifi e bluetooth agora são brancos. Precisa do app 1.9.5."
+      "novidades": "O painel agora apaga quando o motor do caminhão desliga (antes seguia a chave) e a animação de ligar ficou mais lenta, com cerca de 2,4 segundos. Precisa do app 1.9.5."
     }
   ],
   "abas": [
@@ -118,6 +118,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-11-a6v15",
+      "data": "2026-11-11",
+      "titulo": "Painel A6 v1.5",
+      "texto": "O painel agora apaga quando o motor do caminhão desliga (antes seguia a chave) e a animação de ligar ficou mais lenta, com cerca de 2,4 segundos. Precisa do app 1.9.5.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-11-app195",
       "data": "2026-11-11",
