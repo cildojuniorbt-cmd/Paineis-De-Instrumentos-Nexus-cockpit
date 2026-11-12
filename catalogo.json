@@ -108,26 +108,26 @@
       "nome": "Nexus Cockpit A8 Scania 113H",
       "autor": "Cildo Jr",
       "descricao": "Painel Scania 113H com ponteiros, 4 modos de condução (Eco verde escuro, Comfort branco, Sport vermelho escuro, Heavy amarelo escuro) e mapa ao vivo entre os mostradores, acompanhando a borda. Toque no logo NEXUS ou use o app para trocar de modo.",
-      "versao": "1.3",
+      "versao": "1.4",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 21.6,
+      "tamanhoMB": 21.4,
       "miniatura": "miniaturas/nexus_cockpit_a8.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A8.simhubdash",
-      "novidades": "Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Nova animação de abertura ao ligar a chave (NEXUS / SCANIA / 113H), com painel apagando ao desligar. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a9",
       "nome": "Nexus Cockpit A9 Scania Classic",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico Scania Classic com ponteiros, luzes que acendem em uso e 4 modos de condução (Eco, Comfort, Sport, Heavy) que trocam só o selo central com ícone e nome. Toque no logo NEXUS ou use o app para trocar de modo.",
-      "versao": "1.6",
+      "versao": "1.7",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 10.8,
+      "tamanhoMB": 10.7,
       "miniatura": "miniaturas/nexus_cockpit_a9.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A9.simhubdash",
-      "novidades": "Abertura NEXUS + SCANIA + emblema, liga/desliga pela chave com varredura dos ponteiros, borrão no 80 e nos outros marcadores corrigido, bomba de reserva piscando e câmbio M/D/L/H. Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a10",
@@ -147,39 +147,39 @@
       "nome": "Nexus Cockpit A11 Volvo FH Cluster",
       "autor": "Cildo Jr",
       "descricao": "Volvo FH com tela central: só o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo, ponteiros acompanhando o modo. Toque no logo Volvo ou use o app para trocar.",
-      "versao": "1.2",
+      "versao": "1.3",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 31.0,
       "miniatura": "miniaturas/nexus_cockpit_a11.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A11.simhubdash",
-      "novidades": "Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a12",
       "nome": "Nexus Cockpit A12 Iveco S-Way",
       "autor": "Cildo Jr",
       "descricao": "Iveco S-Way com mostradores digitais: só o palco do meio troca de página (caminhão, mapa ao vivo seguindo a borda dos mostradores, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo IVECO ou use o app para trocar.",
-      "versao": "1.2",
+      "versao": "1.3",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 28.4,
+      "tamanhoMB": 28.0,
       "miniatura": "miniaturas/nexus_cockpit_a12.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A12.simhubdash",
-      "novidades": "Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Nova animação de abertura ao ligar a chave (NEXUS / S-WAY / IVECO), com painel apagando ao desligar. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a13",
       "nome": "Nexus Cockpit A13 Iveco S-Way Neon",
       "autor": "Cildo Jr",
       "descricao": "Iveco S-Way estilo neon: só o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo IVECO ou use o app para trocar.",
-      "versao": "1.2",
+      "versao": "1.3",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 21.9,
+      "tamanhoMB": 21.6,
       "miniatura": "miniaturas/nexus_cockpit_a13.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A13.simhubdash",
-      "novidades": "Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Nova animação de abertura ao ligar a chave (NEXUS / S-WAY / IVECO), com painel apagando ao desligar. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a14",
@@ -416,6 +416,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-abertura-iveco-113h",
+      "data": "2026-11-12",
+      "titulo": "A8, A12 e A13 com animação de abertura",
+      "texto": "A12 e A13 (Iveco S-Way) e A8 (Scania 113H) ganharam animação de abertura ao ligar a chave. A8, A9, A11, A12 e A13 agora têm temperatura piscando em azul com motor frio e luzes de injeção e bateria no teste de ignição. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-diferencial",
       "data": "2026-11-12",
