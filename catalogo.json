@@ -6,13 +6,13 @@
       "nome": "Nexus Cockpit A1",
       "autor": "Cildo Jr",
       "descricao": "Painel digital com 5 páginas: computador de bordo, cruise control, navegação, multimídia e visão geral, mais a página de Manutenção.",
-      "versao": "2.2",
+      "versao": "2.3",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 28.0,
+      "tamanhoMB": 27.3,
       "miniatura": "miniaturas/nexus_cockpit.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A1.simhubdash",
-      "novidades": "Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta)."
+      "novidades": "Velocímetro digital refeito (número único, centralizado). Animação de abertura ao ligar a chave e painel apagando ao desligar, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção e bateria no teste de ignição. Reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a2",
@@ -199,13 +199,13 @@
       "nome": "Nexus Cockpit A15 Peterbilt 379",
       "autor": "Cildo Jr",
       "descricao": "Peterbilt com caminhão no centro e 6 páginas pela barra inferior: Painel (caminhão), Viagem (mapa ao vivo no lugar do caminhão), Desempenho, Manutenção, Veículo e Modos. 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo Peterbilt ou use o app para trocar.",
-      "versao": "1.7",
+      "versao": "1.8",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 71.7,
+      "tamanhoMB": 67.4,
       "miniatura": "miniaturas/nexus_cockpit_a15.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A15.simhubdash",
-      "novidades": "Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Setas de seta no centro de cada marcador (RPM e velocidade); km/h do velocímetro desceu para baixo do ponteiro."
+      "novidades": "Fileira de luzes de aviso no lugar das abas (freio, bateria, óleo, temperatura, injeção, bloqueio de diferencial, cruise, limpador, faróis). Animação de abertura NEXUS / Peterbilt, varredura dos ponteiros, temperatura piscando em azul. Setas no centro dos marcadores."
     }
   ],
   "abas": [
@@ -416,6 +416,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a1-a15",
+      "data": "2026-11-12",
+      "titulo": "A1 e A15 atualizados",
+      "texto": "A1: velocímetro digital corrigido, animação de abertura, varredura dos ponteiros e luzes de injeção, bateria e temperatura. A15: fileira de luzes de aviso no lugar das abas e animação de abertura. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-abertura-iveco-113h",
       "data": "2026-11-12",
