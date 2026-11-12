@@ -94,26 +94,26 @@
       "nome": "Nexus Cockpit A7 Volvo FH",
       "autor": "Cildo Jr",
       "descricao": "Painel Volvo FH com 4 modos de condução (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo) e 2 páginas por modo: Cockpit com mapa ao vivo entre os mostradores e Manutenção. Toque no logo NEXUS ou use o app para trocar de modo.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 30.4,
       "miniatura": "miniaturas/nexus_cockpit_a7.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A7.simhubdash",
-      "novidades": "Primeira versão do painel Volvo FH."
+      "novidades": "O painel agora reconhece o tipo de câmbio (automático ou manual) e, em caixas de 16 marchas, mostra se está na faixa baixa (L) ou alta (H)."
     },
     {
       "id": "nexus_cockpit_a8",
       "nome": "Nexus Cockpit A8 Scania 113H",
       "autor": "Cildo Jr",
       "descricao": "Painel Scania 113H com ponteiros, 4 modos de condução (Eco verde escuro, Comfort branco, Sport vermelho escuro, Heavy amarelo escuro) e mapa ao vivo entre os mostradores, acompanhando a borda. Toque no logo NEXUS ou use o app para trocar de modo.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 21.6,
       "miniatura": "miniaturas/nexus_cockpit_a8.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A8.simhubdash",
-      "novidades": "Primeira versão do painel Scania 113H."
+      "novidades": "O painel agora reconhece o tipo de câmbio (automático ou manual) e, em caixas de 16 marchas, mostra se está na faixa baixa (L) ou alta (H)."
     },
     {
       "id": "nexus_cockpit_a9",
@@ -337,6 +337,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a78v11",
+      "data": "2026-11-12",
+      "titulo": "Painéis A7 e A8 atualizados (v1.1)",
+      "texto": "Agora o câmbio aparece como A (automático) ou M (manual), e nas caixas de 16 marchas também L (baixa) ou H (alta). Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a9",
       "data": "2026-11-12",
