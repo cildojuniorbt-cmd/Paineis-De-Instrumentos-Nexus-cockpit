@@ -41,14 +41,14 @@
       "id": "nexus_cockpit_a3",
       "nome": "Nexus Cockpit A3",
       "autor": "Cildo Jr",
-      "descricao": "Painel em alta qualidade com 4 modos de condução (Eco azul, Comfort roxo, Sport vermelho, Heavy laranja) e 4 páginas por modo: Cockpit com mapa, Viagem, Veículo e Manutenção. Toque no menu lateral ou no logo para trocar de modo; o modo acompanha o PC.",
-      "versao": "2.2",
+      "descricao": "Painel em alta qualidade com 4 modos de condução (Eco verde-água, Comfort roxo, Sport vinho, Heavy laranja) e 4 páginas por modo: Cockpit com mapa, Viagem, Veículo e Manutenção. Toque no menu lateral ou no logo para trocar de modo; o modo acompanha o PC.",
+      "versao": "2.3",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 37.9,
+      "tamanhoMB": 37.4,
       "miniatura": "miniaturas/nexus_cockpit_a3.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A3.simhubdash",
-      "novidades": "Mapa acompanha a borda dos dois mostradores, fantasmas dos números e do ponteiro do conta-giros removidos, marcha corrigida e odômetro/trip agora visíveis acima da barra inferior."
+      "novidades": "Novas cores: Eco verde-água (mais suave para a vista), Comfort roxo mais escuro e Sport vinho. Falha do conta-giros na página Viagem corrigida."
     },
     {
       "id": "nexus_cockpit_a4",
@@ -298,6 +298,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a3v23",
+      "data": "2026-11-12",
+      "titulo": "Painel A3 atualizado (v2.3)",
+      "texto": "Eco agora em verde-água, Comfort em roxo mais escuro e Sport em vinho. Corrigida a falha no conta-giros da página Viagem. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a4v26",
       "data": "2026-11-12",
