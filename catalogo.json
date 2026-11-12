@@ -280,10 +280,10 @@
     }
   ],
   "app": {
-    "versao": "1.9.7",
-    "codigo": 17,
+    "versao": "1.9.9",
+    "codigo": 19,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Painel A6: o mapa ao vivo agora fica na camada certa do painel, apaga junto quando o painel desliga, abre mais afastado e lembra o zoom."
+    "notas": "A barra de baixo e a dica de condução só aparecem depois que o painel abre. Versão de navegador com botão de tela cheia."
   },
   "programa": {
     "versao": "1.9.1",
@@ -296,6 +296,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-app199",
+      "data": "2026-11-12",
+      "titulo": "App 1.9.9",
+      "texto": "A barra de recursos só aparece depois que o painel abre e some quando o caminhão desliga. A versão de navegador ganhou botão de tela cheia.",
+      "onde": "app"
+    },
     {
       "id": "2026-11-12-a6v25",
       "data": "2026-11-12",
