@@ -101,6 +101,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a7.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A7.simhubdash",
       "novidades": "Primeira versão do painel Volvo FH."
+    },
+    {
+      "id": "nexus_cockpit_a8",
+      "nome": "Nexus Cockpit A8 Scania 113H",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Scania 113H com ponteiros, 4 modos de condução (Eco verde escuro, Comfort branco, Sport vermelho escuro, Heavy amarelo escuro) e mapa ao vivo entre os mostradores, acompanhando a borda. Toque no logo NEXUS ou use o app para trocar de modo.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 21.6,
+      "miniatura": "miniaturas/nexus_cockpit_a8.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A8.simhubdash",
+      "novidades": "Primeira versão do painel Scania 113H."
     }
   ],
   "abas": [
@@ -311,6 +324,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a8",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: Nexus Cockpit A8 Scania 113H",
+      "texto": "Painel Scania 113H com 4 modos (branco, verde, vermelho e amarelo), ponteiros e mapa ao vivo no centro. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a7",
       "data": "2026-11-12",
