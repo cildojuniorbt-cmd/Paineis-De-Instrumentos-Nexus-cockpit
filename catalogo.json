@@ -41,13 +41,14 @@
       "id": "nexus_cockpit_a3",
       "nome": "Nexus Cockpit A3",
       "autor": "Cildo Jr",
-      "descricao": "Painel laranja em alta qualidade com 4 páginas (painel, trip, status do veículo e manutenção), toque no menu lateral e logo de boas-vindas.",
-      "versao": "1.5",
-      "atualizado": "2026-11-10",
+      "descricao": "Painel em alta qualidade com 4 modos de condução (Eco azul, Comfort roxo, Sport vermelho, Heavy laranja) e 4 páginas por modo: Cockpit com mapa, Viagem, Veículo e Manutenção. Toque no menu lateral ou no logo para trocar de modo; o modo acompanha o PC.",
+      "versao": "2.0",
+      "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 16,
+      "tamanhoMB": 36.7,
       "miniatura": "miniaturas/nexus_cockpit_a3.jpg",
-      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A3.simhubdash"
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A3.simhubdash",
+      "novidades": "Modos Eco/Comfort/Sport/Heavy com cores próprias, mapa ao vivo no Cockpit, abertura nova com varredura dos ponteiros, ícone de temperatura azul até 40 °C e luzes de injeção e bateria até a partida."
     },
     {
       "id": "nexus_cockpit_a4",
@@ -297,6 +298,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a3v20",
+      "data": "2026-11-12",
+      "titulo": "Painel A3 atualizado (v2.0)",
+      "texto": "Agora com 4 modos de cor (Eco azul, Comfort roxo, Sport vermelho e Heavy laranja), mapa ao vivo na página Cockpit, abertura com varredura, ícone de temperatura azul até 40 °C e luzes de injeção e bateria. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a4v25",
       "data": "2026-11-12",
