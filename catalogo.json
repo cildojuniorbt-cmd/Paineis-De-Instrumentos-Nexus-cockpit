@@ -198,13 +198,13 @@
       "nome": "Nexus Cockpit A15 Peterbilt 379",
       "autor": "Cildo Jr",
       "descricao": "Peterbilt com caminhão no centro e 6 páginas pela barra inferior: Painel (caminhão), Viagem (mapa ao vivo no lugar do caminhão), Desempenho, Manutenção, Veículo e Modos. 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo Peterbilt ou use o app para trocar.",
-      "versao": "1.4",
+      "versao": "1.5",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 43.1,
+      "tamanhoMB": 43.0,
       "miniatura": "miniaturas/nexus_cockpit_a15.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A15.simhubdash",
-      "novidades": "Corrigido: o mapa agora segue a borda dos mostradores sem cortar o conta-giros e o velocímetro (imagens renovadas, o app estava mostrando as da versão anterior)."
+      "novidades": "Os ícones e nomes da barra de páginas subiram para não ficarem escondidos pela barra de status do app."
     }
   ],
   "abas": [
@@ -415,6 +415,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a15v15",
+      "data": "2026-11-12",
+      "titulo": "Painel A15 atualizado (v1.5)",
+      "texto": "A barra de páginas do A15 subiu e não fica mais atrás da barra de status do app. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a15v14",
       "data": "2026-11-12",
