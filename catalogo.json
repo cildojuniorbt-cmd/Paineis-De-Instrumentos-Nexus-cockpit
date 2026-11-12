@@ -114,6 +114,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a8.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A8.simhubdash",
       "novidades": "Primeira versão do painel Scania 113H."
+    },
+    {
+      "id": "nexus_cockpit_a9",
+      "nome": "Nexus Cockpit A9 Scania Classic",
+      "autor": "Cildo Jr",
+      "descricao": "Painel analógico Scania Classic com ponteiros, luzes que acendem em uso e 4 modos de condução (Eco, Comfort, Sport, Heavy) que trocam só o selo central com ícone e nome. Toque no logo NEXUS ou use o app para trocar de modo.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 10.2,
+      "miniatura": "miniaturas/nexus_cockpit_a9.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A9.simhubdash",
+      "novidades": "Primeira versão do painel Scania Classic."
     }
   ],
   "abas": [
@@ -324,6 +337,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a9",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: Nexus Cockpit A9 Scania Classic",
+      "texto": "Painel analógico Scania Classic com 4 modos que trocam o selo central (ícone e nome). Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a8",
       "data": "2026-11-12",
