@@ -94,13 +94,13 @@
       "nome": "Nexus Cockpit A7 Volvo FH",
       "autor": "Cildo Jr",
       "descricao": "Painel Volvo FH com 4 modos de condução (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo) e 2 páginas por modo: Cockpit com mapa ao vivo entre os mostradores e Manutenção. Toque no logo NEXUS ou use o app para trocar de modo.",
-      "versao": "1.1",
+      "versao": "1.2",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 30.4,
+      "tamanhoMB": 32.3,
       "miniatura": "miniaturas/nexus_cockpit_a7.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A7.simhubdash",
-      "novidades": "O painel agora reconhece o tipo de câmbio (automático ou manual) e, em caixas de 16 marchas, mostra se está na faixa baixa (L) ou alta (H)."
+      "novidades": "Abertura com NEXUS, Volvo FH e a logo; liga/desliga pela chave com varredura dos ponteiros; luzes de injeção e bateria no teste da chave; ícone de temperatura do motor pisca azul quando frio; logo Volvo mais perto do nome; câmbio segue o tipo escolhido (manual, automático, caixa alta e baixa)."
     },
     {
       "id": "nexus_cockpit_a8",
@@ -415,6 +415,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a7v12",
+      "data": "2026-11-12",
+      "titulo": "Painel A7 Volvo FH atualizado (v1.2)",
+      "texto": "Nova abertura, liga/desliga pela chave, luz de injeção e bateria, temperatura azul piscando e câmbio por tipo. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a15v15",
       "data": "2026-11-12",
