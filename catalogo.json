@@ -120,13 +120,13 @@
       "nome": "Nexus Cockpit A9 Scania Classic",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico Scania Classic com ponteiros, luzes que acendem em uso e 4 modos de condução (Eco, Comfort, Sport, Heavy) que trocam só o selo central com ícone e nome. Toque no logo NEXUS ou use o app para trocar de modo.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 10.2,
+      "tamanhoMB": 10.1,
       "miniatura": "miniaturas/nexus_cockpit_a9.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A9.simhubdash",
-      "novidades": "Primeira versão do painel Scania Classic."
+      "novidades": "Hora e marcha dentro do conta-giros; a marcha mostra A (automático) ou M (manual) e, nas caixas de 16 marchas, L ou H."
     }
   ],
   "abas": [
@@ -337,6 +337,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a9v11",
+      "data": "2026-11-12",
+      "titulo": "Painel A9 atualizado (v1.1)",
+      "texto": "Agora o A9 mostra hora e marcha dentro do conta-giros, com o tipo de câmbio (A ou M). Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a78v11",
       "data": "2026-11-12",
