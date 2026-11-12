@@ -55,13 +55,13 @@
       "nome": "Nexus Cockpit A4",
       "autor": "Cildo Jr",
       "descricao": "Painel com 4 modos de condução (Eco verde, Conforto branco, Sport vermelho, Heavy dourado) e 4 páginas por modo: Cockpit, Veículo, Manutenção e Modos. Feito para o app Nexus Cockpit: desliza ou toca nas bordas para trocar de página, e o modo acompanha o PC.",
-      "versao": "2.6",
+      "versao": "2.7",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 56.1,
+      "tamanhoMB": 56.4,
       "miniatura": "miniaturas/nexus_cockpit_a4.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A4.simhubdash",
-      "novidades": "Mapa sem borda, flutuando no painel: maior e com as bordas esmaecendo na arte de cada modo."
+      "novidades": "Mapa flutuante maior, esmaecendo suavemente até encostar no arco do velocímetro."
     },
     {
       "id": "nexus_cockpit_a5",
@@ -298,6 +298,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a4v27",
+      "data": "2026-11-12",
+      "titulo": "Painel A4 atualizado (v2.7)",
+      "texto": "O mapa ficou maior e esmaece até encostar no arco do velocímetro. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a2v23",
       "data": "2026-11-12",
