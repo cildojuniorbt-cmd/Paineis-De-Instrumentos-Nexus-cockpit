@@ -127,6 +127,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a9.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A9.simhubdash",
       "novidades": "Os ponteiros agora seguem a cor do modo: verde no Eco, azul no Comfort, vermelho no Sport e amarelo no Heavy."
+    },
+    {
+      "id": "nexus_cockpit_a10",
+      "nome": "Nexus Cockpit A10 Volvo FH Digital",
+      "autor": "Cildo Jr",
+      "descricao": "Volvo FH digital com moldura fixa: só o palco central troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo NEXUS ou use o app para trocar.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 26.2,
+      "miniatura": "miniaturas/nexus_cockpit_a10.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A10.simhubdash",
+      "novidades": "Primeira versão: páginas Caminhão, Mapa e Manutenção trocando só no centro do painel."
     }
   ],
   "abas": [
@@ -337,6 +350,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a10v10",
+      "data": "2026-11-12",
+      "titulo": "Novo painel A10 Volvo FH Digital",
+      "texto": "Painel novo com moldura fixa e só o centro trocando entre caminhão, mapa e manutenção. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a9v12",
       "data": "2026-11-12",
