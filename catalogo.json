@@ -140,6 +140,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a10.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A10.simhubdash",
       "novidades": "Primeira versão: páginas Caminhão, Mapa e Manutenção trocando só no centro do painel."
+    },
+    {
+      "id": "nexus_cockpit_a11",
+      "nome": "Nexus Cockpit A11 Volvo FH Cluster",
+      "autor": "Cildo Jr",
+      "descricao": "Volvo FH com tela central: só o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo, ponteiros acompanhando o modo. Toque no logo Volvo ou use o app para trocar.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 31.0,
+      "miniatura": "miniaturas/nexus_cockpit_a11.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A11.simhubdash",
+      "novidades": "Primeira versão: páginas Caminhão, Mapa e Manutenção na tela central."
     }
   ],
   "abas": [
@@ -350,6 +363,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a11v10",
+      "data": "2026-11-12",
+      "titulo": "Novo painel A11 Volvo FH Cluster",
+      "texto": "Painel novo com tela central que troca entre caminhão, mapa e manutenção, e 4 modos de cor. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a10v10",
       "data": "2026-11-12",
