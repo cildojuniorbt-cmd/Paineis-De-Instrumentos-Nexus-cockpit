@@ -18,13 +18,13 @@
       "nome": "Nexus Cockpit A2",
       "autor": "Cildo Jr",
       "descricao": "Cluster analógico com 4 modos de condução (Eco azul, Comfort roxo, Sport vermelho, Heavy laranja) e 5 páginas por modo: Cockpit com mapa, computador de bordo, cruise control, manutenção e painel completo. Luzes, logo e abertura ao ligar a chave; o modo acompanha o PC.",
-      "versao": "2.1",
+      "versao": "2.2",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 60.5,
+      "tamanhoMB": 62.4,
       "miniatura": "miniaturas/nexus_cockpit_a2.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash",
-      "novidades": "Agora com 4 modos de cor, mapa embutido na moldura do display central, logo nova do A6, abertura com varredura, ícone de temperatura azul até 40 °C e luzes de bateria e injeção até a partida."
+      "novidades": "Mapa agora acompanha a borda dos dois mostradores, e todos os ícones das luzes foram redesenhados em alta resolução (setas, motor, bateria, freio, pneus, combustível, temperatura e outros)."
     },
     {
       "id": "scania_113h",
@@ -42,13 +42,13 @@
       "nome": "Nexus Cockpit A3",
       "autor": "Cildo Jr",
       "descricao": "Painel em alta qualidade com 4 modos de condução (Eco azul, Comfort roxo, Sport vermelho, Heavy laranja) e 4 páginas por modo: Cockpit com mapa, Viagem, Veículo e Manutenção. Toque no menu lateral ou no logo para trocar de modo; o modo acompanha o PC.",
-      "versao": "2.1",
+      "versao": "2.2",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 37.6,
+      "tamanhoMB": 37.9,
       "miniatura": "miniaturas/nexus_cockpit_a3.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A3.simhubdash",
-      "novidades": "Mapa redesenhado: agora numa moldura embutida no painel, com cantos arredondados e fio de luz na cor do modo."
+      "novidades": "Mapa acompanha a borda dos dois mostradores, fantasmas dos números e do ponteiro do conta-giros removidos, marcha corrigida e odômetro/trip agora visíveis acima da barra inferior."
     },
     {
       "id": "nexus_cockpit_a4",
@@ -298,6 +298,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a2a3v22",
+      "data": "2026-11-12",
+      "titulo": "Painéis A2 e A3 atualizados (v2.2)",
+      "texto": "O mapa agora acompanha a borda dos dois mostradores (A2 e A3). No A2, os ícones das luzes foram redesenhados em alta resolução. No A3, corrigimos o defeito no conta-giros, a marcha e deixamos odômetro e trip visíveis. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a2a3v21",
       "data": "2026-11-12",
