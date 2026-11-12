@@ -17,14 +17,14 @@
       "id": "nexus_cockpit_a2",
       "nome": "Nexus Cockpit A2",
       "autor": "Cildo Jr",
-      "descricao": "Cluster analógico com detalhes em vermelho e 5 páginas: computador de bordo, cruise control, manutenção e painel completo. Luzes e logo de boas-vindas ao ligar a chave.",
-      "versao": "2.0",
+      "descricao": "Cluster analógico com 4 modos de condução (Eco azul, Comfort roxo, Sport vermelho, Heavy laranja) e 5 páginas por modo: Cockpit com mapa, computador de bordo, cruise control, manutenção e painel completo. Luzes, logo e abertura ao ligar a chave; o modo acompanha o PC.",
+      "versao": "2.1",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 30.1,
+      "tamanhoMB": 60.5,
       "miniatura": "miniaturas/nexus_cockpit_a2.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash",
-      "novidades": "Logo nova do A6 (abertura e páginas internas), mapa ao vivo no display central, abertura com varredura dos ponteiros, ícone de temperatura azul até 40 °C e luzes de bateria e injeção acesas até a partida."
+      "novidades": "Agora com 4 modos de cor, mapa embutido na moldura do display central, logo nova do A6, abertura com varredura, ícone de temperatura azul até 40 °C e luzes de bateria e injeção até a partida."
     },
     {
       "id": "scania_113h",
@@ -42,13 +42,13 @@
       "nome": "Nexus Cockpit A3",
       "autor": "Cildo Jr",
       "descricao": "Painel em alta qualidade com 4 modos de condução (Eco azul, Comfort roxo, Sport vermelho, Heavy laranja) e 4 páginas por modo: Cockpit com mapa, Viagem, Veículo e Manutenção. Toque no menu lateral ou no logo para trocar de modo; o modo acompanha o PC.",
-      "versao": "2.0",
+      "versao": "2.1",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 36.7,
+      "tamanhoMB": 37.6,
       "miniatura": "miniaturas/nexus_cockpit_a3.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A3.simhubdash",
-      "novidades": "Modos Eco/Comfort/Sport/Heavy com cores próprias, mapa ao vivo no Cockpit, abertura nova com varredura dos ponteiros, ícone de temperatura azul até 40 °C e luzes de injeção e bateria até a partida."
+      "novidades": "Mapa redesenhado: agora numa moldura embutida no painel, com cantos arredondados e fio de luz na cor do modo."
     },
     {
       "id": "nexus_cockpit_a4",
@@ -298,6 +298,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a2a3v21",
+      "data": "2026-11-12",
+      "titulo": "Painéis A2 e A3 atualizados (v2.1)",
+      "texto": "O mapa agora fica numa moldura embutida no painel, com acabamento na cor de cada modo (A2 e A3). O A2 ganhou os 4 modos de condução: Eco azul, Comfort roxo, Sport vermelho e Heavy laranja. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a2v20",
       "data": "2026-11-12",
