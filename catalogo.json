@@ -185,13 +185,13 @@
       "nome": "Nexus Cockpit A14 Peterbilt",
       "autor": "Cildo Jr",
       "descricao": "Peterbilt analógico com mapa esmaecido fixo embaixo, na estrada, em todas as páginas. Só a tela do meio troca de página (Viagem, Manutenção, Motor). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo Peterbilt ou use o app para trocar.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 28.1,
+      "tamanhoMB": 31.8,
       "miniatura": "miniaturas/nexus_cockpit_a14.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A14.simhubdash",
-      "novidades": "Primeira versão: mapa fixo embaixo, páginas Viagem, Manutenção e Motor na tela do meio, setas de pisca e farol."
+      "novidades": "Setas acima dos ponteiros do RPM e da velocidade, km/h abaixo do ponteiro, abertura NEXUS + Peterbilt com varredura dos ponteiros, liga/desliga pela chave, luzes de injeção e bateria no teste e ícone de temperatura piscando azul quando frio."
     },
     {
       "id": "nexus_cockpit_a15",
@@ -415,6 +415,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a14v11",
+      "data": "2026-11-12",
+      "titulo": "Painel A14 atualizado (v1.1)",
+      "texto": "Setas acima dos ponteiros, nova abertura com varredura, injeção/bateria no teste e temperatura piscando. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a7v12",
       "data": "2026-11-12",
