@@ -18,13 +18,13 @@
       "nome": "Nexus Cockpit A2",
       "autor": "Cildo Jr",
       "descricao": "Cluster analógico com detalhes em vermelho e 5 páginas: computador de bordo, cruise control, manutenção e painel completo. Luzes e logo de boas-vindas ao ligar a chave.",
-      "versao": "1.6",
-      "atualizado": "2026-11-11",
+      "versao": "2.0",
+      "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 34,
+      "tamanhoMB": 30.1,
       "miniatura": "miniaturas/nexus_cockpit_a2.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash",
-      "novidades": "Data corrigida no app (agora 07/11/2026)."
+      "novidades": "Logo nova do A6 (abertura e páginas internas), mapa ao vivo no display central, abertura com varredura dos ponteiros, ícone de temperatura azul até 40 °C e luzes de bateria e injeção acesas até a partida."
     },
     {
       "id": "scania_113h",
@@ -298,6 +298,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a2v20",
+      "data": "2026-11-12",
+      "titulo": "Painel A2 atualizado (v2.0)",
+      "texto": "Logo nova do Nexus Cockpit, mapa ao vivo no display central, abertura com varredura, ícone de temperatura azul até 40 °C e luzes de bateria e injeção até a partida. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a3v20",
       "data": "2026-11-12",
