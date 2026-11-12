@@ -88,6 +88,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a6.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A6.simhubdash",
       "novidades": "O nome do perfil do motorista agora fica à esquerda do ícone de Wi-Fi, sem sobrepor."
+    },
+    {
+      "id": "nexus_cockpit_a7",
+      "nome": "Nexus Cockpit A7 Volvo FH",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Volvo FH com 4 modos de condução (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo) e 2 páginas por modo: Cockpit com mapa ao vivo entre os mostradores e Manutenção. Toque no logo NEXUS ou use o app para trocar de modo.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 30.4,
+      "miniatura": "miniaturas/nexus_cockpit_a7.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A7.simhubdash",
+      "novidades": "Primeira versão do painel Volvo FH."
     }
   ],
   "abas": [
@@ -298,6 +311,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a7",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: Nexus Cockpit A7 Volvo FH",
+      "texto": "Painel Volvo FH com 4 modos (verde, azul, vermelho e amarelo), mapa ao vivo entre os mostradores e página de Manutenção. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a4v27",
       "data": "2026-11-12",
