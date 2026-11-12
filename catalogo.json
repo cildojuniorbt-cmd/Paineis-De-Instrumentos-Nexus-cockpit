@@ -166,6 +166,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a12.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A12.simhubdash",
       "novidades": "Primeira versão: páginas Caminhão, Mapa e Manutenção no centro do painel."
+    },
+    {
+      "id": "nexus_cockpit_a13",
+      "nome": "Nexus Cockpit A13 Iveco S-Way Neon",
+      "autor": "Cildo Jr",
+      "descricao": "Iveco S-Way estilo neon: só o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo IVECO ou use o app para trocar.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 21.9,
+      "miniatura": "miniaturas/nexus_cockpit_a13.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A13.simhubdash",
+      "novidades": "Primeira versão: páginas Caminhão, Mapa e Manutenção no centro do painel."
     }
   ],
   "abas": [
@@ -376,6 +389,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a13v10",
+      "data": "2026-11-12",
+      "titulo": "Novo painel A13 Iveco S-Way Neon",
+      "texto": "Painel novo com 4 modos de cor e o centro trocando entre caminhão, mapa e manutenção. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a12v10",
       "data": "2026-11-12",
