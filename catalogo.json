@@ -280,10 +280,10 @@
     }
   ],
   "app": {
-    "versao": "1.9.6",
-    "codigo": 16,
+    "versao": "1.9.7",
+    "codigo": 17,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Button Box agora ficam na Comunidade, na aba Button Box: baixe só os modelos que quiser (Nexus BTB 002 ao 012). O Nexus BTB 001 continua no app."
+    "notas": "Painel A6: o mapa ao vivo agora fica na camada certa do painel, apaga junto quando o painel desliga, abre mais afastado e lembra o zoom."
   },
   "programa": {
     "versao": "1.9.1",
