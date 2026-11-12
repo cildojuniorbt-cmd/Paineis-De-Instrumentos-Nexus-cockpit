@@ -121,7 +121,7 @@
       "nome": "Nexus Cockpit A9 Scania Classic",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico Scania Classic com ponteiros, luzes que acendem em uso e 4 modos de condução (Eco, Comfort, Sport, Heavy) que trocam só o selo central com ícone e nome. Toque no logo NEXUS ou use o app para trocar de modo.",
-      "versao": "1.4",
+      "versao": "1.5",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 10.9,
@@ -417,10 +417,10 @@
   },
   "noticias": [
     {
-      "id": "2026-11-12-a9v14",
+      "id": "2026-11-12-a9v15",
       "data": "2026-11-12",
       "titulo": "Painel A9 Scania atualizado",
-      "texto": "Nova abertura com NEXUS, SCANIA e o emblema, varredura dos ponteiros ao ligar e correção do borrão nos marcadores. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "texto": "Nova abertura com NEXUS, SCANIA e o emblema, varredura dos ponteiros e limpeza dos borrões e rastros dos ponteiros nos marcadores. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
       "onde": "programa"
     },
     {
