@@ -18,13 +18,13 @@
       "nome": "Nexus Cockpit A2",
       "autor": "Cildo Jr",
       "descricao": "Cluster analógico com 4 modos de condução (Eco azul, Comfort roxo, Sport vermelho, Heavy laranja) e 5 páginas por modo: Cockpit com mapa, computador de bordo, cruise control, manutenção e painel completo. Luzes, logo e abertura ao ligar a chave; o modo acompanha o PC.",
-      "versao": "2.2",
+      "versao": "2.3",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 62.4,
+      "tamanhoMB": 61.8,
       "miniatura": "miniaturas/nexus_cockpit_a2.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash",
-      "novidades": "Mapa agora acompanha a borda dos dois mostradores, e todos os ícones das luzes foram redesenhados em alta resolução (setas, motor, bateria, freio, pneus, combustível, temperatura e outros)."
+      "novidades": "Ícones das luzes redesenhados: traço fino, menores e apagados, acendendo na cor quando a função é usada."
     },
     {
       "id": "scania_113h",
@@ -298,6 +298,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a2v23",
+      "data": "2026-11-12",
+      "titulo": "Painel A2 atualizado (v2.3)",
+      "texto": "Novos ícones das luzes do painel, mais finos e discretos: ficam apagados e acendem na cor quando a função é usada. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a3v23",
       "data": "2026-11-12",
