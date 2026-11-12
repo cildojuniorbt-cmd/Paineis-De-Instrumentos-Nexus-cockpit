@@ -134,13 +134,13 @@
       "nome": "Nexus Cockpit A10 Volvo FH Digital",
       "autor": "Cildo Jr",
       "descricao": "Volvo FH digital com moldura fixa: só o palco central troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo NEXUS ou use o app para trocar.",
-      "versao": "1.2",
+      "versao": "1.3",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 28.6,
       "miniatura": "miniaturas/nexus_cockpit_a10.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A10.simhubdash",
-      "novidades": "Setas só no topo (as de baixo viraram luz de injeção e retarder); abertura NEXUS + Volvo FH com o caminhão; liga/desliga pela chave com varredura dos ponteiros; injeção e bateria no teste da chave; temperatura piscando azul quando frio; bomba pisca amarela na reserva; câmbio M/D/L/H."
+      "novidades": "Novo ícone de bloqueio de diferencial entre o cruise e o farol; setas só no topo; abertura NEXUS + Volvo FH com o caminhão; varredura dos ponteiros; injeção; temperatura azul piscando; reserva de combustível; câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a11",
@@ -416,6 +416,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a10v13",
+      "data": "2026-11-12",
+      "titulo": "Painel A10 atualizado (v1.3)",
+      "texto": "Novo ícone de bloqueio de diferencial no A10. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a10v12",
       "data": "2026-11-12",
