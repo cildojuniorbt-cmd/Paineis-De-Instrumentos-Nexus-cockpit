@@ -179,6 +179,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a13.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A13.simhubdash",
       "novidades": "Primeira versão: páginas Caminhão, Mapa e Manutenção no centro do painel."
+    },
+    {
+      "id": "nexus_cockpit_a14",
+      "nome": "Nexus Cockpit A14 Peterbilt",
+      "autor": "Cildo Jr",
+      "descricao": "Peterbilt analógico com mapa esmaecido fixo embaixo, na estrada, em todas as páginas. Só a tela do meio troca de página (Viagem, Manutenção, Motor). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo Peterbilt ou use o app para trocar.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 28.1,
+      "miniatura": "miniaturas/nexus_cockpit_a14.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A14.simhubdash",
+      "novidades": "Primeira versão: mapa fixo embaixo, páginas Viagem, Manutenção e Motor na tela do meio, setas de pisca e farol."
     }
   ],
   "abas": [
@@ -389,6 +402,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a14v10",
+      "data": "2026-11-12",
+      "titulo": "Novo painel A14 Peterbilt",
+      "texto": "Painel analógico novo com mapa fixo embaixo e a tela do meio trocando de página. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a13v10",
       "data": "2026-11-12",
