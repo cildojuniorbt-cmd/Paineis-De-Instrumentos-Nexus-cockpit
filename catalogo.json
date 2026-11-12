@@ -79,13 +79,13 @@
       "nome": "Nexus Cockpit A6",
       "autor": "Cildo Jr",
       "descricao": "Painel com mapa ao vivo no centro (no app Nexus Cockpit), velocímetro e conta-giros em arco, luzes do painel, combustível, água, óleo, bateria, ar e AdBlue, e a faixa de viagem com destino, distância, chegada e tempo.",
-      "versao": "2.1",
+      "versao": "2.2",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 11.9,
+      "tamanhoMB": 12.0,
       "miniatura": "miniaturas/nexus_cockpit_a6.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A6.simhubdash",
-      "novidades": "Luzes da bateria e da injeção piscam em vermelho junto com a varredura da abertura."
+      "novidades": "Luz da bateria pisca em vermelho e a da injeção em amarelo queimado, junto com a varredura da abertura."
     }
   ],
   "abas": [
@@ -296,6 +296,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a6v22",
+      "data": "2026-11-12",
+      "titulo": "Painel A6 v2.2",
+      "texto": "Luz da injeção agora em amarelo queimado (a da bateria segue vermelha), piscando junto com a varredura. Precisa do app 1.9.5.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a6v21",
       "data": "2026-11-12",
