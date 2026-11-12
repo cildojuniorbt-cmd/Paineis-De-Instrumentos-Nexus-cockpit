@@ -54,13 +54,13 @@
       "nome": "Nexus Cockpit A4",
       "autor": "Cildo Jr",
       "descricao": "Painel com 4 modos de condução (Eco verde, Conforto branco, Sport vermelho, Heavy dourado) e 4 páginas por modo: Cockpit, Veículo, Manutenção e Modos. Feito para o app Nexus Cockpit: desliza ou toca nas bordas para trocar de página, e o modo acompanha o PC.",
-      "versao": "2.4",
+      "versao": "2.5",
       "atualizado": "2026-11-12",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 54.8,
       "miniatura": "miniaturas/nexus_cockpit_a4.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A4.simhubdash",
-      "novidades": "Luzes de injeção e bateria agora ao lado do ícone de cinto de segurança, acesas da abertura até a partida do motor."
+      "novidades": "Luzes de injeção e bateria alinhadas com a fileira de ícones, ao lado do cinto de segurança."
     },
     {
       "id": "nexus_cockpit_a5",
@@ -297,6 +297,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a4v25",
+      "data": "2026-11-12",
+      "titulo": "Painel A4 atualizado (v2.5)",
+      "texto": "Ícones de injeção e bateria alinhados e padronizados com a fileira de luzes. Precisa do app 1.9.5 ou superior.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a4v24",
       "data": "2026-11-12",
