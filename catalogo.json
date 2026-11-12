@@ -206,6 +206,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a15.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A15.simhubdash",
       "novidades": "Fileira de luzes de aviso no lugar das abas (freio, bateria, óleo, temperatura, injeção, bloqueio de diferencial, cruise, limpador, faróis). Animação de abertura NEXUS / Peterbilt, varredura dos ponteiros, temperatura piscando em azul. Setas no centro dos marcadores."
+    },
+    {
+      "id": "nexus_cockpit_a16",
+      "nome": "Nexus Cockpit A16 Iveco Hi-Way",
+      "autor": "Cildo Jr",
+      "descricao": "Iveco Hi-Way com caminhão no centro: o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo IVECO ou use o app para trocar.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 29.7,
+      "miniatura": "miniaturas/nexus_cockpit_a16.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A16.simhubdash",
+      "novidades": "Painel novo. Animação de abertura NEXUS / IVECO HI-WAY com o caminhão ao ligar a chave, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     }
   ],
   "abas": [
@@ -416,6 +429,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a16",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: A16 Iveco Hi-Way",
+      "texto": "Chegou o Nexus Cockpit A16 Iveco Hi-Way, com 4 modos de cor, mapa ao vivo, página de manutenção e animação de abertura. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-abertura-fix",
       "data": "2026-11-12",
