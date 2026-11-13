@@ -258,6 +258,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a19.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A19.simhubdash",
       "novidades": "Painel novo. Animação de abertura NEXUS só no visor central, com o resto do painel apagado e acendendo junto, varredura dos seis ponteiros, setas, farol alto, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+    },
+    {
+      "id": "nexus_cockpit_a20",
+      "nome": "Nexus Cockpit A20 Analógico Clássico",
+      "autor": "Cildo Jr",
+      "descricao": "Painel analógico clássico com conta-giros e velocímetro grandes, relógios auxiliares, fileira de luzes no topo e visor de viagem. 4 modos de condução trocam a cor dos ponteiros (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Troque pelo app.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 29.3,
+      "miniatura": "miniaturas/nexus_cockpit_a20.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A20.simhubdash",
+      "novidades": "Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
     }
   ],
   "abas": [
@@ -468,6 +481,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a20",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: A20 Analógico Clássico",
+      "texto": "Chegou o Nexus Cockpit A20 Analógico Clássico, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a19",
       "data": "2026-11-12",
