@@ -329,13 +329,13 @@
       "nome": "Nexus Cockpit A25 MAN Marcador",
       "autor": "Cildo Jr",
       "descricao": "Painel digital MAN com marcador de giros no arco, velocidade grande no centro, barras de óleo, temperatura, ar 1 e 2, bateria e combustível, faixa de viagem/consumo/autonomia e fileira de luzes. O centro troca de página (estrada, mapa ao vivo, manutenção). 4 modos de condução mudam a cor (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo).",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 19.0,
       "miniatura": "miniaturas/nexus_cockpit_a25.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A25.simhubdash",
-      "novidades": "Painel novo. Abertura NEXUS e MAN só no centro, com o resto apagado e acendendo junto, varredura do marcador, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e marcha M/D/L/H."
+      "novidades": "Versão 1.1: o mapa agora aparece esmaecido. Painel novo. Abertura NEXUS e MAN só no centro, com o resto apagado e acendendo junto, varredura do marcador, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e marcha M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a26",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a25-v11",
+      "data": "2026-11-13",
+      "titulo": "A25 atualizado: mapa esmaecido",
+      "texto": "O mapa do A25 agora aparece esmaecido. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a24-v11",
       "data": "2026-11-13",
