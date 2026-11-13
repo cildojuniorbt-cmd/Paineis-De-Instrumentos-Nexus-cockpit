@@ -212,13 +212,13 @@
       "nome": "Nexus Cockpit A16 Iveco Hi-Way",
       "autor": "Cildo Jr",
       "descricao": "Iveco Hi-Way com caminhão no centro: o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo IVECO ou use o app para trocar.",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 29.7,
       "miniatura": "miniaturas/nexus_cockpit_a16.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A16.simhubdash",
-      "novidades": "Painel novo. Animação de abertura NEXUS / IVECO HI-WAY com o caminhão ao ligar a chave, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.1: o número da velocidade desceu para ficar entre o pino central e o km/h, sem cobrir o ponteiro. Painel novo. Animação de abertura NEXUS / IVECO HI-WAY com o caminhão ao ligar a chave, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a17",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a16-v11",
+      "data": "2026-11-13",
+      "titulo": "A16 Iveco Hi-Way atualizado",
+      "texto": "O número da velocidade do A16 agora fica abaixo do pino central e não cobre mais o ponteiro. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a28",
       "data": "2026-11-12",
