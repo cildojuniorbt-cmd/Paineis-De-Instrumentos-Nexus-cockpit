@@ -407,13 +407,13 @@
       "nome": "Nexus Cockpit A29 Metallica IVECO S-Way Digital",
       "autor": "Cildo Jr",
       "descricao": "Painel digital Metallica com IVECO S-Way: arcos de RPM e velocidade, raios que dão clarão ao trocar de modo e na abertura, barras de combustível e temperatura, luzes, mapa e manutenção.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 24.1,
+      "tamanhoMB": 25.0,
       "miniatura": "miniaturas/nexus_cockpit_a29.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A29.simhubdash",
-      "novidades": "Primeira versão: arcos de RPM e velocidade animados, raios do fundo animados na abertura e ao trocar o modo de condução, logo Nexus e nome do caminhão na animação inicial, 4 modos de condução, mapa e manutenção."
+      "novidades": "Versão 1.1: os raios agora se mexem em animação (descem, acendem e tremem) na abertura e ao trocar o modo de condução. Primeira versão: arcos de RPM e velocidade animados, raios do fundo animados na abertura e ao trocar o modo de condução, logo Nexus e nome do caminhão na animação inicial, 4 modos de condução, mapa e manutenção."
     }
   ],
   "abas": [
@@ -624,6 +624,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a29-v11",
+      "data": "2026-11-13",
+      "titulo": "A29 atualizado: raios animados",
+      "texto": "No A29 Metallica IVECO S-Way Digital os raios agora se mexem em animação na abertura e ao trocar o modo de condução. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a29",
       "data": "2026-11-13",
