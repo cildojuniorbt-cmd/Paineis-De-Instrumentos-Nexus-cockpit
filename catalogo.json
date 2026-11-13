@@ -264,13 +264,13 @@
       "nome": "Nexus Cockpit A20 Analógico Clássico",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico clássico com conta-giros e velocímetro grandes, relógios auxiliares, fileira de luzes no topo e visor de viagem. 4 modos de condução trocam a cor dos ponteiros (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Troque pelo app.",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 29.3,
+      "tamanhoMB": 29.2,
       "miniatura": "miniaturas/nexus_cockpit_a20.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A20.simhubdash",
-      "novidades": "Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
+      "novidades": "Versão 1.1: os 13 ponteiros agora têm varredura e mudam de cor com o modo de condução; o painel fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
     },
     {
       "id": "nexus_cockpit_a21",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a20-v11",
+      "data": "2026-11-13",
+      "titulo": "A20 atualizado: ponteiros vivos e luzes por chave",
+      "texto": "O A20 agora tem todos os ponteiros ao vivo, com varredura e cor do modo de condução, e acende em duas etapas (primeira chave e partida). Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a22-v11",
       "data": "2026-11-13",
