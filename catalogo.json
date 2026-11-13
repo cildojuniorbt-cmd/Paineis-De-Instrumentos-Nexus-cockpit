@@ -199,13 +199,13 @@
       "nome": "Nexus Cockpit A15 Peterbilt 379",
       "autor": "Cildo Jr",
       "descricao": "Peterbilt com caminhão no centro e 6 páginas pela barra inferior: Painel (caminhão), Viagem (mapa ao vivo no lugar do caminhão), Desempenho, Manutenção, Veículo e Modos. 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo Peterbilt ou use o app para trocar.",
-      "versao": "1.8",
-      "atualizado": "2026-11-12",
+      "versao": "1.9",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 67.4,
+      "tamanhoMB": 72.6,
       "miniatura": "miniaturas/nexus_cockpit_a15.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A15.simhubdash",
-      "novidades": "Fileira de luzes de aviso no lugar das abas (freio, bateria, óleo, temperatura, injeção, bloqueio de diferencial, cruise, limpador, faróis). Animação de abertura NEXUS / Peterbilt, varredura dos ponteiros, temperatura piscando em azul. Setas no centro dos marcadores."
+      "novidades": "Versão 1.9: a faixa de luzes e a barra de baixo subiram e não ficam mais escondidas atrás da barra do app. Fileira de luzes de aviso no lugar das abas (freio, bateria, óleo, temperatura, injeção, bloqueio de diferencial, cruise, limpador, faróis). Animação de abertura NEXUS / Peterbilt, varredura dos ponteiros, temperatura piscando em azul. Setas no centro dos marcadores."
     },
     {
       "id": "nexus_cockpit_a16",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a15-v19",
+      "data": "2026-11-13",
+      "titulo": "A15 atualizado: barra inferior visível",
+      "texto": "No A15 a barra inferior com as luzes agora fica acima da barra do app, totalmente visível. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a16-v12",
       "data": "2026-11-13",
