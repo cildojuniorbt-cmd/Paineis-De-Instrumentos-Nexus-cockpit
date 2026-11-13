@@ -310,6 +310,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a23.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A23.simhubdash",
       "novidades": "Painel novo. Animação de abertura NEXUS, MITSUBISHI e L200 TRITON só no centro, com o resto apagado e acendendo junto, fileira de luzes com setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+    },
+    {
+      "id": "nexus_cockpit_a24",
+      "nome": "Nexus Cockpit A24 Corolla Altis",
+      "autor": "Cildo Jr",
+      "descricao": "Painel digital do Corolla Altis com conta-giros e velocímetro em arco, velocidade digital no topo, carro no centro que troca de página (veículo, mapa ao vivo, manutenção) e fileira de luzes. 4 modos de condução trocam a cor do painel (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Toque no logo Toyota ou use o app para trocar.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 19.8,
+      "miniatura": "miniaturas/nexus_cockpit_a24.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A24.simhubdash",
+      "novidades": "Painel novo. Animação de abertura NEXUS, Toyota e Corolla Altis só no centro, com o resto apagado e acendendo junto, varredura dos ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     }
   ],
   "abas": [
@@ -520,6 +533,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a24",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: A24 Corolla Altis",
+      "texto": "Chegou o Nexus Cockpit A24 Corolla Altis, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a23",
       "data": "2026-11-12",
