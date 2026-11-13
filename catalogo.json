@@ -323,6 +323,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a24.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A24.simhubdash",
       "novidades": "Painel novo. Animação de abertura NEXUS, Toyota e Corolla Altis só no centro, com o resto apagado e acendendo junto, varredura dos ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+    },
+    {
+      "id": "nexus_cockpit_a25",
+      "nome": "Nexus Cockpit A25 MAN Marcador",
+      "autor": "Cildo Jr",
+      "descricao": "Painel digital MAN com marcador de giros no arco, velocidade grande no centro, barras de óleo, temperatura, ar 1 e 2, bateria e combustível, faixa de viagem/consumo/autonomia e fileira de luzes. O centro troca de página (estrada, mapa ao vivo, manutenção). 4 modos de condução mudam a cor (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo).",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 19.0,
+      "miniatura": "miniaturas/nexus_cockpit_a25.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A25.simhubdash",
+      "novidades": "Painel novo. Abertura NEXUS e MAN só no centro, com o resto apagado e acendendo junto, varredura do marcador, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e marcha M/D/L/H."
     }
   ],
   "abas": [
@@ -533,6 +546,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a25",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: A25 MAN Marcador",
+      "texto": "Chegou o Nexus Cockpit A25 MAN Marcador, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a24",
       "data": "2026-11-12",
