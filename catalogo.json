@@ -362,6 +362,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a27.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A27.simhubdash",
       "novidades": "Painel novo. Abertura NEXUS e Peterbilt só no visor central, com o resto apagado e acendendo junto, varredura dos oito ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, bloqueio de diferencial, reserva de combustível piscando e injeção no lugar do último ícone."
+    },
+    {
+      "id": "nexus_cockpit_a28",
+      "nome": "Nexus Cockpit A28 IVECO S-Way",
+      "autor": "Cildo Jr",
+      "descricao": "Painel digital IVECO S-Way com barra de giros em blocos, velocidade grande dentro de um arco que enche com a velocidade, caminhão no centro que troca para um mapa ao vivo ou manutenção, barras de óleo, temperatura, ar 1 e 2, bateria e combustível, e faixa completa de luzes. 4 modos de condução mudam a cor (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Toque no logo IVECO para trocar.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 25.4,
+      "miniatura": "miniaturas/nexus_cockpit_a28.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A28.simhubdash",
+      "novidades": "Painel novo. Abertura NEXUS e IVECO só no centro, com o resto apagado e acendendo junto, varredura da barra de giros e do arco de velocidade, setas, farol alto, cruise, freio, bateria, óleo, temperatura piscando em azul com motor frio, bloqueio de diferencial, reserva de combustível piscando e injeção no último ícone."
     }
   ],
   "abas": [
@@ -572,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a28",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: A28 IVECO S-Way",
+      "texto": "Chegou o Nexus Cockpit A28 IVECO S-Way, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a27",
       "data": "2026-11-12",
