@@ -251,13 +251,13 @@
       "nome": "Nexus Cockpit A19 Scania Navegação",
       "autor": "Cildo Jr",
       "descricao": "Cluster com conta-giros e velocímetro grandes, quatro mini relógios e visor vertical central com mapa ao vivo na primeira página, manutenção e dados nas outras. 4 modos de condução trocam a cor do painel (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Toque no logo NEXUS do visor ou use o app para trocar.",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 25.4,
+      "tamanhoMB": 25.2,
       "miniatura": "miniaturas/nexus_cockpit_a19.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A19.simhubdash",
-      "novidades": "Painel novo. Animação de abertura NEXUS só no visor central, com o resto do painel apagado e acendendo junto, varredura dos seis ponteiros, setas, farol alto, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.1: removi as manchas e falhas visuais deixadas pelos ponteiros antigos. Painel novo. Animação de abertura NEXUS só no visor central, com o resto do painel apagado e acendendo junto, varredura dos seis ponteiros, setas, farol alto, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a20",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a19-v11",
+      "data": "2026-11-13",
+      "titulo": "A19 atualizado: falhas visuais corrigidas",
+      "texto": "O painel Scania agora está sem as manchas e resíduos dos ponteiros antigos. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a18-v11",
       "data": "2026-11-13",
