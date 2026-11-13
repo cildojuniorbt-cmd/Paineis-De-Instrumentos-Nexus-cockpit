@@ -316,13 +316,13 @@
       "nome": "Nexus Cockpit A24 Corolla Altis",
       "autor": "Cildo Jr",
       "descricao": "Painel digital do Corolla Altis com conta-giros e velocímetro em arco, velocidade digital no topo, carro no centro que troca de página (veículo, mapa ao vivo, manutenção) e fileira de luzes. 4 modos de condução trocam a cor do painel (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Toque no logo Toyota ou use o app para trocar.",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 19.8,
       "miniatura": "miniaturas/nexus_cockpit_a24.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A24.simhubdash",
-      "novidades": "Painel novo. Animação de abertura NEXUS, Toyota e Corolla Altis só no centro, com o resto apagado e acendendo junto, varredura dos ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.1: o mapa agora aparece esmaecido e a letra da marcha não aparece mais nas páginas de mapa e manutenção. Painel novo. Animação de abertura NEXUS, Toyota e Corolla Altis só no centro, com o resto apagado e acendendo junto, varredura dos ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a25",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a24-v11",
+      "data": "2026-11-13",
+      "titulo": "A24 atualizado: mapa esmaecido",
+      "texto": "O A24 agora mostra o mapa esmaecido e corrigiu a letra D que aparecia nas páginas 2 e 3. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a20-v11",
       "data": "2026-11-13",
