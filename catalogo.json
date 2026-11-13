@@ -394,13 +394,13 @@
       "nome": "Nexus Cockpit A31 Metallica IVECO Hi-Way",
       "autor": "Cildo Jr",
       "descricao": "Painel Metallica com IVECO Hi-Way: palco, raios que dão clarão ao trocar de modo e na abertura, ponteiros de RPM e velocidade, barras de óleo, temperatura, ar, bateria e combustível, e fileira completa de luzes.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 32.4,
+      "tamanhoMB": 34.8,
       "miniatura": "miniaturas/nexus_cockpit_a31.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A31.simhubdash",
-      "novidades": "Primeira versão: raios do fundo animados na abertura e ao trocar o modo de condução, logo Nexus e nome do caminhão na animação inicial, 4 modos de condução, mapa e manutenção."
+      "novidades": "Versão 1.1: os raios agora se mexem em animação (descem, acendem e tremem) na abertura e ao trocar o modo de condução. Primeira versão: raios do fundo animados na abertura e ao trocar o modo de condução, logo Nexus e nome do caminhão na animação inicial, 4 modos de condução, mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a29",
@@ -624,6 +624,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a31-v11",
+      "data": "2026-11-13",
+      "titulo": "A31 atualizado: raios animados",
+      "texto": "No A31 Metallica IVECO Hi-Way os raios agora se mexem em animação na abertura e ao trocar o modo de condução. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a30-v11",
       "data": "2026-11-13",
