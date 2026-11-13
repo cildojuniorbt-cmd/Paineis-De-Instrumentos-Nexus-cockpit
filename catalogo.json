@@ -238,13 +238,13 @@
       "nome": "Nexus Cockpit A18 VW",
       "autor": "Cildo Jr",
       "descricao": "Painel VW com seis relógios (conta-giros, velocímetro, temperatura, combustível, óleo e ar) e visor vertical no centro que troca de página: cockpit, manutenção e dados. 4 modos de condução trocam a cor do painel (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Toque no logo NEXUS do visor ou use o app para trocar.",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 26.0,
+      "tamanhoMB": 25.5,
       "miniatura": "miniaturas/nexus_cockpit_a18.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A18.simhubdash",
-      "novidades": "Painel novo. Animação de abertura NEXUS e logo VW só no visor central, com o resto do painel apagado e acendendo junto, varredura dos seis ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.1: removi as manchas e falhas visuais deixadas pelos ponteiros antigos no mostrador. Painel novo. Animação de abertura NEXUS e logo VW só no visor central, com o resto do painel apagado e acendendo junto, varredura dos seis ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a19",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a18-v11",
+      "data": "2026-11-13",
+      "titulo": "A18 atualizado: falhas visuais corrigidas",
+      "texto": "O painel VW agora está sem as manchas e resíduos dos ponteiros antigos. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a23-v11",
       "data": "2026-11-13",
