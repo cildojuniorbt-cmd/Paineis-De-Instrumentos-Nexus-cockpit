@@ -349,6 +349,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a26.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A26.simhubdash",
       "novidades": "Painel novo. Abertura NEXUS e MAN só no centro, com o resto apagado e acendendo junto, varredura dos ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção, bloqueio de diferencial, reserva de combustível piscando e marcha M/D/L/H."
+    },
+    {
+      "id": "nexus_cockpit_a27",
+      "nome": "Nexus Cockpit A27 Peterbilt",
+      "autor": "Cildo Jr",
+      "descricao": "Painel analógico Peterbilt com oito relógios (giros, velocidade, óleo, temperatura, ar 1 e 2, volts e combustível), visor central que troca de página (viagem e consumo, mapa ao vivo, manutenção), setas abaixo de RPM e km/h e barra de luzes com injeção. 4 modos de condução mudam a cor dos ponteiros e do selo (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Toque no logo Peterbilt para trocar.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 37.6,
+      "miniatura": "miniaturas/nexus_cockpit_a27.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A27.simhubdash",
+      "novidades": "Painel novo. Abertura NEXUS e Peterbilt só no visor central, com o resto apagado e acendendo junto, varredura dos oito ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, bloqueio de diferencial, reserva de combustível piscando e injeção no lugar do último ícone."
     }
   ],
   "abas": [
@@ -559,6 +572,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a27",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: A27 Peterbilt",
+      "texto": "Chegou o Nexus Cockpit A27 Peterbilt, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a26",
       "data": "2026-11-12",
