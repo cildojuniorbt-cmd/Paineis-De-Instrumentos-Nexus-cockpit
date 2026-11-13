@@ -375,6 +375,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a28.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A28.simhubdash",
       "novidades": "Versão 1.1: o mapa aparece esmaecido, a animação ficou centralizada na tela e a faixa de luzes subiu para não ficar atrás da barra do app. Painel novo. Abertura NEXUS e IVECO só no centro, com o resto apagado e acendendo junto, varredura da barra de giros e do arco de velocidade, setas, farol alto, cruise, freio, bateria, óleo, temperatura piscando em azul com motor frio, bloqueio de diferencial, reserva de combustível piscando e injeção no último ícone."
+    },
+    {
+      "id": "nexus_cockpit_a30",
+      "nome": "Nexus Cockpit A30 Metallica IVECO S-Way",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Metallica com IVECO S-Way: palco, raios que dão clarão ao trocar de modo e na abertura, ponteiros de RPM e velocidade, barras de óleo, temperatura, ar, bateria e combustível, e fileira completa de luzes.",
+      "versao": "1.0",
+      "atualizado": "2026-11-13",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 34.0,
+      "miniatura": "miniaturas/nexus_cockpit_a30.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A30.simhubdash",
+      "novidades": "Primeira versão: raios do fundo animados na abertura e ao trocar o modo de condução, logo Nexus e nome do caminhão na animação inicial, 4 modos de condução, mapa e manutenção."
     }
   ],
   "abas": [
@@ -585,6 +598,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a30",
+      "data": "2026-11-13",
+      "titulo": "Novo painel: A30 Metallica IVECO S-Way",
+      "texto": "Chegou o Nexus Cockpit A30 Metallica IVECO S-Way, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a27-v11",
       "data": "2026-11-13",
