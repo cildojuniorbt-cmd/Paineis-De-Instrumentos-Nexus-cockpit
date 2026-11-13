@@ -342,13 +342,13 @@
       "nome": "Nexus Cockpit A26 MAN Duplo Mostrador",
       "autor": "Cildo Jr",
       "descricao": "Painel digital MAN com conta-giros e velocímetro de ponteiro, termômetro lateral segmentado, caminhão no centro que troca de página (veículo, mapa ao vivo, manutenção), pressões de óleo e ar, bateria e faixa de consumo, viagem, velocidade média e autonomia. 4 modos de condução mudam a cor (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo).",
-      "versao": "1.1",
+      "versao": "1.2",
       "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 24.2,
+      "tamanhoMB": 25.8,
       "miniatura": "miniaturas/nexus_cockpit_a26.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A26.simhubdash",
-      "novidades": "Versão 1.1: o mapa agora aparece esmaecido. Painel novo. Abertura NEXUS e MAN só no centro, com o resto apagado e acendendo junto, varredura dos ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção, bloqueio de diferencial, reserva de combustível piscando e marcha M/D/L/H."
+      "novidades": "Versão 1.2: a barra de navegação inferior subiu e não fica mais escondida atrás da barra do app. o mapa agora aparece esmaecido. Painel novo. Abertura NEXUS e MAN só no centro, com o resto apagado e acendendo junto, varredura dos ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção, bloqueio de diferencial, reserva de combustível piscando e marcha M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a27",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a26-v12",
+      "data": "2026-11-13",
+      "titulo": "A26 atualizado: barra inferior visível",
+      "texto": "No A26 a barra inferior agora fica acima da barra do app. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a15-v19",
       "data": "2026-11-13",
