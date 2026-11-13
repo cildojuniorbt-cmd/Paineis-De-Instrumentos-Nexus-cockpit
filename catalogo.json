@@ -336,6 +336,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a25.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A25.simhubdash",
       "novidades": "Painel novo. Abertura NEXUS e MAN só no centro, com o resto apagado e acendendo junto, varredura do marcador, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e marcha M/D/L/H."
+    },
+    {
+      "id": "nexus_cockpit_a26",
+      "nome": "Nexus Cockpit A26 MAN Duplo Mostrador",
+      "autor": "Cildo Jr",
+      "descricao": "Painel digital MAN com conta-giros e velocímetro de ponteiro, termômetro lateral segmentado, caminhão no centro que troca de página (veículo, mapa ao vivo, manutenção), pressões de óleo e ar, bateria e faixa de consumo, viagem, velocidade média e autonomia. 4 modos de condução mudam a cor (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo).",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 24.2,
+      "miniatura": "miniaturas/nexus_cockpit_a26.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A26.simhubdash",
+      "novidades": "Painel novo. Abertura NEXUS e MAN só no centro, com o resto apagado e acendendo junto, varredura dos ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção, bloqueio de diferencial, reserva de combustível piscando e marcha M/D/L/H."
     }
   ],
   "abas": [
@@ -546,6 +559,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a26",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: A26 MAN Duplo Mostrador",
+      "texto": "Chegou o Nexus Cockpit A26 MAN Duplo Mostrador, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a25",
       "data": "2026-11-12",
