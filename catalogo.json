@@ -608,15 +608,15 @@
     }
   ],
   "app": {
-    "versao": "1.9.11",
-    "codigo": 21,
+    "versao": "1.9.12",
+    "codigo": 22,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Novo modelo de mapa estilo CarPlay (mapa girando com o caminhão, cartão de rota, limite de velocidade e barra de chegada). Tela inicial com os painéis em leque e pesquisa por nome na Comunidade."
+    "notas": "Agora é preciso entrar com e-mail ou Google (com a opção de manter conectado). Painel de botões em leque ao lado dos painéis, página de Contato e suporte e pedido de permissão para publicar painel."
   },
   "programa": {
-    "versao": "1.9.4",
+    "versao": "1.9.6",
     "instalador": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit_Setup.exe",
-    "notas": "Mapa do jogo com estradas mais bem desenhadas e encaixe melhor nas regiões novas. Versão de navegador com os novos modelos de mapa nos painéis (moldura neon, esmaecido, oval e 3D)."
+    "notas": "Tela de login com e-mail ou Google (manter conectado), motor e abas unificados, mapa e sons melhorados."
   },
   "mac": {
     "versao": "1.9.3",
