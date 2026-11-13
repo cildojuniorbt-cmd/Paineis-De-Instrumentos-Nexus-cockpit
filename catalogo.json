@@ -569,10 +569,10 @@
     }
   ],
   "app": {
-    "versao": "1.9.10",
-    "codigo": 20,
+    "versao": "1.9.11",
+    "codigo": 21,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Tela inicial com os painéis em leque. \"Ver todos\" mostra mais painéis por linha. Pesquisa por nome na Comunidade. Novos modelos de mapa para os painéis (moldura neon, esmaecido, oval e 3D)."
+    "notas": "Novo modelo de mapa estilo CarPlay (mapa girando com o caminhão, cartão de rota, limite de velocidade e barra de chegada). Tela inicial com os painéis em leque e pesquisa por nome na Comunidade."
   },
   "programa": {
     "versao": "1.9.4",
