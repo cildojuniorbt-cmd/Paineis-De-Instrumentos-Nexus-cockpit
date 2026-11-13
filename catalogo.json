@@ -277,13 +277,13 @@
       "nome": "Nexus Cockpit A21 Analógico Azul",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico com conta-giros, velocímetro, relógios auxiliares, duas fileiras de luzes e visor de status com marcha e piloto automático. 4 modos de condução trocam a cor dos detalhes e dos ponteiros (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Troque pelo app.",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 31.4,
       "miniatura": "miniaturas/nexus_cockpit_a21.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A21.simhubdash",
-      "novidades": "Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, ícone de neve piscando com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
+      "novidades": "Versão 1.1: o painel agora fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, ícone de neve piscando com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
     },
     {
       "id": "nexus_cockpit_a22",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a21-v11",
+      "data": "2026-11-13",
+      "titulo": "A21 atualizado: luzes por chave",
+      "texto": "O A21 agora fica apagado, acende um pouco na primeira chave e acende por inteiro quando o motor dá a partida. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a16-v11",
       "data": "2026-11-13",
