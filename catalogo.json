@@ -303,13 +303,13 @@
       "nome": "Nexus Cockpit A23 L200 Triton",
       "autor": "Cildo Jr",
       "descricao": "Painel digital da L200 Triton com arcos de velocidade e rotação, caminhonete no centro que troca de página (veículo, mapa ao vivo, manutenção) e seletor de modos. 4 modos de condução trocam a cor e destacam a aba (Eco, Normal, Gravel e Mud). Toque no logo Mitsubishi ou use o app para trocar.",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 20.3,
+      "tamanhoMB": 19.8,
       "miniatura": "miniaturas/nexus_cockpit_a23.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A23.simhubdash",
-      "novidades": "Painel novo. Animação de abertura NEXUS, MITSUBISHI e L200 TRITON só no centro, com o resto apagado e acendendo junto, fileira de luzes com setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.1: o mapa agora aparece esmaecido e o mostrador (RPM e velocidade) foi limpo das falhas e do brilho antigo. Painel novo. Animação de abertura NEXUS, MITSUBISHI e L200 TRITON só no centro, com o resto apagado e acendendo junto, fileira de luzes com setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, injeção e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a24",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a23-v11",
+      "data": "2026-11-13",
+      "titulo": "A23 atualizado: mostrador limpo e mapa esmaecido",
+      "texto": "O Triton agora tem o mostrador limpo (sem resíduos no RPM e velocidade) e o mapa esmaecido. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a28-v11",
       "data": "2026-11-13",
