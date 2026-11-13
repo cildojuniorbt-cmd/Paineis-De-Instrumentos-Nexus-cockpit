@@ -290,13 +290,13 @@
       "nome": "Nexus Cockpit A22 Mercedes Analógico",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico Mercedes-Benz com velocímetro e conta-giros grandes, relógios auxiliares, hora, marcha e fileira de luzes. 4 modos de condução trocam a cor do painel (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Troque pelo app.",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-13",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 26.3,
       "miniatura": "miniaturas/nexus_cockpit_a22.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A22.simhubdash",
-      "novidades": "Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
+      "novidades": "Versão 1.1: o painel agora fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
     },
     {
       "id": "nexus_cockpit_a23",
@@ -585,6 +585,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-13-a22-v11",
+      "data": "2026-11-13",
+      "titulo": "A22 atualizado: luzes por chave",
+      "texto": "O A22 agora fica apagado, acende um pouco na primeira chave e acende por inteiro quando o motor dá a partida. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a21-v11",
       "data": "2026-11-13",
