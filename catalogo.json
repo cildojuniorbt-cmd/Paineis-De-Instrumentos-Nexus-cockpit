@@ -219,6 +219,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a16.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A16.simhubdash",
       "novidades": "Painel novo. Animação de abertura NEXUS / IVECO HI-WAY com o caminhão ao ligar a chave, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+    },
+    {
+      "id": "nexus_cockpit_a17",
+      "nome": "Nexus Cockpit A17 Ciano",
+      "autor": "Cildo Jr",
+      "descricao": "Painel semicircular com visor central: mostra caminhão, mapa ao vivo e manutenção no meio, velocímetro e conta-giros grandes e mini marcadores de combustível e temperatura. 4 modos de condução trocam a cor do painel (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Toque no logo NEXUS do visor ou use o app para trocar.",
+      "versao": "1.0",
+      "atualizado": "2026-11-12",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 25.1,
+      "miniatura": "miniaturas/nexus_cockpit_a17.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A17.simhubdash",
+      "novidades": "Painel novo. Animação de abertura NEXUS só no visor central, com o resto do painel apagado e acendendo junto, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     }
   ],
   "abas": [
@@ -429,6 +442,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-12-a17",
+      "data": "2026-11-12",
+      "titulo": "Novo painel: A17 Ciano",
+      "texto": "Chegou o Nexus Cockpit A17 Ciano, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-12-a16",
       "data": "2026-11-12",
