@@ -6,13 +6,13 @@
       "nome": "Nexus Cockpit A1",
       "autor": "Cildo Jr",
       "descricao": "Painel digital com 5 páginas: computador de bordo, cruise control, navegação, multimídia e visão geral, mais a página de Manutenção.",
-      "versao": "2.3",
-      "atualizado": "2026-11-12",
+      "versao": "2.4",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 27.3,
       "miniatura": "miniaturas/nexus_cockpit.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A1.simhubdash",
-      "novidades": "Velocímetro digital refeito (número único, centralizado). Animação de abertura ao ligar a chave e painel apagando ao desligar, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção e bateria no teste de ignição. Reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 2.4: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Velocímetro digital refeito (número único, centralizado). Animação de abertura ao ligar a chave e painel apagando ao desligar, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção e bateria no teste de ignição. Reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a2",
@@ -43,39 +43,39 @@
       "nome": "Nexus Cockpit A3",
       "autor": "Cildo Jr",
       "descricao": "Painel em alta qualidade com 4 modos de condução (Eco verde-água, Comfort roxo, Sport vinho, Heavy laranja) e 4 páginas por modo: Cockpit com mapa, Viagem, Veículo e Manutenção. Toque no menu lateral ou no logo para trocar de modo; o modo acompanha o PC.",
-      "versao": "2.6",
-      "atualizado": "2026-11-12",
+      "versao": "2.7",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 37.4,
+      "tamanhoMB": 33.6,
       "miniatura": "miniaturas/nexus_cockpit_a3.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A3.simhubdash",
-      "novidades": "Corrigido: ícone do bloqueio de diferencial aparecia na animação de abertura. Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Versão 2.7: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Corrigido: ícone do bloqueio de diferencial aparecia na animação de abertura. Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
     },
     {
       "id": "nexus_cockpit_a4",
       "nome": "Nexus Cockpit A4",
       "autor": "Cildo Jr",
       "descricao": "Painel com 4 modos de condução (Eco verde, Conforto branco, Sport vermelho, Heavy dourado) e 4 páginas por modo: Cockpit, Veículo, Manutenção e Modos. Feito para o app Nexus Cockpit: desliza ou toca nas bordas para trocar de página, e o modo acompanha o PC.",
-      "versao": "3.0",
-      "atualizado": "2026-11-12",
+      "versao": "3.1",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 56.5,
+      "tamanhoMB": 56.4,
       "miniatura": "miniaturas/nexus_cockpit_a4.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A4.simhubdash",
-      "novidades": "Corrigido: ícone do bloqueio de diferencial aparecia na animação de abertura. Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Versão 3.1: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Corrigido: ícone do bloqueio de diferencial aparecia na animação de abertura. Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
     },
     {
       "id": "nexus_cockpit_a5",
       "nome": "Nexus Cockpit A5",
       "autor": "Cildo Jr",
       "descricao": "Painel completo com 4 modos de condução (Eco, Comfort, Sport e Heavy), cada um com sua cor, e 5 páginas: cockpit, viagem, veículo, manutenção e modos. Usa os recursos do Nexus: Smart Fuel, perfil, nota de condução, dicas, desgaste das peças e ângulo da carreta. Toque no logo troca o modo. Requer app 1.8.1.",
-      "versao": "1.4",
-      "atualizado": "2026-11-12",
+      "versao": "1.5",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 49.9,
       "miniatura": "miniaturas/nexus_cockpit_a5.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A5.simhubdash",
-      "novidades": "Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta)."
+      "novidades": "Versão 1.5: A barra inferior do app não cobre mais as luzes. Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta)."
     },
     {
       "id": "nexus_cockpit_a6",
@@ -95,26 +95,26 @@
       "nome": "Nexus Cockpit A7 Volvo FH",
       "autor": "Cildo Jr",
       "descricao": "Painel Volvo FH com 4 modos de condução (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo) e 2 páginas por modo: Cockpit com mapa ao vivo entre os mostradores e Manutenção. Toque no logo NEXUS ou use o app para trocar de modo.",
-      "versao": "1.5",
-      "atualizado": "2026-11-12",
+      "versao": "1.6",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 31.7,
+      "tamanhoMB": 32.2,
       "miniatura": "miniaturas/nexus_cockpit_a7.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A7.simhubdash",
-      "novidades": "Corrigido: ícone do bloqueio de diferencial aparecia na animação de abertura. Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Versão 1.6: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Corrigido: ícone do bloqueio de diferencial aparecia na animação de abertura. Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
     },
     {
       "id": "nexus_cockpit_a8",
       "nome": "Nexus Cockpit A8 Scania 113H",
       "autor": "Cildo Jr",
       "descricao": "Painel Scania 113H com ponteiros, 4 modos de condução (Eco verde escuro, Comfort branco, Sport vermelho escuro, Heavy amarelo escuro) e mapa ao vivo entre os mostradores, acompanhando a borda. Toque no logo NEXUS ou use o app para trocar de modo.",
-      "versao": "1.4",
-      "atualizado": "2026-11-12",
+      "versao": "1.5",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 21.4,
       "miniatura": "miniaturas/nexus_cockpit_a8.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A8.simhubdash",
-      "novidades": "Nova animação de abertura ao ligar a chave (NEXUS / SCANIA / 113H), com painel apagando ao desligar. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.5: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Nova animação de abertura ao ligar a chave (NEXUS / SCANIA / 113H), com painel apagando ao desligar. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a9",
@@ -134,65 +134,65 @@
       "nome": "Nexus Cockpit A10 Volvo FH Digital",
       "autor": "Cildo Jr",
       "descricao": "Volvo FH digital com moldura fixa: só o palco central troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo NEXUS ou use o app para trocar.",
-      "versao": "1.6",
-      "atualizado": "2026-11-12",
+      "versao": "1.7",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 28.6,
       "miniatura": "miniaturas/nexus_cockpit_a10.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A10.simhubdash",
-      "novidades": "Novo ícone de bloqueio de diferencial entre o cruise e o farol; setas só no topo; abertura NEXUS + Volvo FH com o caminhão; varredura dos ponteiros; injeção; temperatura azul piscando; reserva de combustível; câmbio M/D/L/H. Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Versão 1.7: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Novo ícone de bloqueio de diferencial entre o cruise e o farol; setas só no topo; abertura NEXUS + Volvo FH com o caminhão; varredura dos ponteiros; injeção; temperatura azul piscando; reserva de combustível; câmbio M/D/L/H. Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
     },
     {
       "id": "nexus_cockpit_a11",
       "nome": "Nexus Cockpit A11 Volvo FH Cluster",
       "autor": "Cildo Jr",
       "descricao": "Volvo FH com tela central: só o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo, ponteiros acompanhando o modo. Toque no logo Volvo ou use o app para trocar.",
-      "versao": "1.3",
-      "atualizado": "2026-11-12",
+      "versao": "1.4",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 31.0,
       "miniatura": "miniaturas/nexus_cockpit_a11.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A11.simhubdash",
-      "novidades": "Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.4: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a12",
       "nome": "Nexus Cockpit A12 Iveco S-Way",
       "autor": "Cildo Jr",
       "descricao": "Iveco S-Way com mostradores digitais: só o palco do meio troca de página (caminhão, mapa ao vivo seguindo a borda dos mostradores, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo IVECO ou use o app para trocar.",
-      "versao": "1.3",
-      "atualizado": "2026-11-12",
+      "versao": "1.4",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 28.0,
       "miniatura": "miniaturas/nexus_cockpit_a12.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A12.simhubdash",
-      "novidades": "Nova animação de abertura ao ligar a chave (NEXUS / S-WAY / IVECO), com painel apagando ao desligar. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.4: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. A barra inferior do app não cobre mais as luzes. Nova animação de abertura ao ligar a chave (NEXUS / S-WAY / IVECO), com painel apagando ao desligar. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a13",
       "nome": "Nexus Cockpit A13 Iveco S-Way Neon",
       "autor": "Cildo Jr",
       "descricao": "Iveco S-Way estilo neon: só o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo IVECO ou use o app para trocar.",
-      "versao": "1.3",
-      "atualizado": "2026-11-12",
+      "versao": "1.4",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 21.6,
       "miniatura": "miniaturas/nexus_cockpit_a13.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A13.simhubdash",
-      "novidades": "Nova animação de abertura ao ligar a chave (NEXUS / S-WAY / IVECO), com painel apagando ao desligar. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.4: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. A barra inferior do app não cobre mais as luzes. Nova animação de abertura ao ligar a chave (NEXUS / S-WAY / IVECO), com painel apagando ao desligar. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a14",
       "nome": "Nexus Cockpit A14 Peterbilt",
       "autor": "Cildo Jr",
       "descricao": "Peterbilt analógico com mapa esmaecido fixo embaixo, na estrada, em todas as páginas. Só a tela do meio troca de página (Viagem, Manutenção, Motor). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo Peterbilt ou use o app para trocar.",
-      "versao": "1.4",
-      "atualizado": "2026-11-12",
+      "versao": "1.5",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 31.3,
+      "tamanhoMB": 30.4,
       "miniatura": "miniaturas/nexus_cockpit_a14.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A14.simhubdash",
-      "novidades": "Corrigido: ícone do bloqueio de diferencial aparecia na animação de abertura. Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
+      "novidades": "Versão 1.5: A barra inferior do app não cobre mais as luzes. Corrigido: ícone do bloqueio de diferencial aparecia na animação de abertura. Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta). Bloqueio de diferencial: ícone amarelo só aceso quando ativo (apagado fica escuro)."
     },
     {
       "id": "nexus_cockpit_a15",
@@ -212,13 +212,13 @@
       "nome": "Nexus Cockpit A16 Iveco Hi-Way",
       "autor": "Cildo Jr",
       "descricao": "Iveco Hi-Way com caminhão no centro: o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo. Toque no logo IVECO ou use o app para trocar.",
-      "versao": "1.2",
-      "atualizado": "2026-11-13",
+      "versao": "1.3",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 29.7,
+      "tamanhoMB": 29.8,
       "miniatura": "miniaturas/nexus_cockpit_a16.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A16.simhubdash",
-      "novidades": "Versão 1.2: a faixa de luzes subiu e não fica mais escondida atrás da barra do app. o número da velocidade desceu para ficar entre o pino central e o km/h, sem cobrir o ponteiro. Painel novo. Animação de abertura NEXUS / IVECO HI-WAY com o caminhão ao ligar a chave, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.3: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. A barra inferior do app não cobre mais as luzes. a faixa de luzes subiu e não fica mais escondida atrás da barra do app. o número da velocidade desceu para ficar entre o pino central e o km/h, sem cobrir o ponteiro. Painel novo. Animação de abertura NEXUS / IVECO HI-WAY com o caminhão ao ligar a chave, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a17",
@@ -290,13 +290,13 @@
       "nome": "Nexus Cockpit A22 Mercedes Analógico",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico Mercedes-Benz com velocímetro e conta-giros grandes, relógios auxiliares, hora, marcha e fileira de luzes. 4 modos de condução trocam a cor do painel (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Troque pelo app.",
-      "versao": "1.1",
-      "atualizado": "2026-11-13",
+      "versao": "1.2",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 26.3,
       "miniatura": "miniaturas/nexus_cockpit_a22.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A22.simhubdash",
-      "novidades": "Versão 1.1: o painel agora fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
+      "novidades": "Versão 1.2: A barra inferior do app não cobre mais as luzes. o painel agora fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
     },
     {
       "id": "nexus_cockpit_a23",
@@ -624,6 +624,97 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a22-v12",
+      "data": "2026-11-16",
+      "titulo": "Painel A22 atualizado",
+      "texto": "A barra inferior do app não cobre mais as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a14-v15",
+      "data": "2026-11-16",
+      "titulo": "Painel A14 atualizado",
+      "texto": "A barra inferior do app não cobre mais as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a5-v15",
+      "data": "2026-11-16",
+      "titulo": "Painel A5 atualizado",
+      "texto": "A barra inferior do app não cobre mais as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a16-v13",
+      "data": "2026-11-16",
+      "titulo": "Painel A16 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. A barra inferior do app não cobre mais as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a13-v14",
+      "data": "2026-11-16",
+      "titulo": "Painel A13 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. A barra inferior do app não cobre mais as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a12-v14",
+      "data": "2026-11-16",
+      "titulo": "Painel A12 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. A barra inferior do app não cobre mais as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a11-v14",
+      "data": "2026-11-16",
+      "titulo": "Painel A11 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a10-v17",
+      "data": "2026-11-16",
+      "titulo": "Painel A10 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a8-v15",
+      "data": "2026-11-16",
+      "titulo": "Painel A8 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a7-v16",
+      "data": "2026-11-16",
+      "titulo": "Painel A7 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a4-v31",
+      "data": "2026-11-16",
+      "titulo": "Painel A4 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a3-v27",
+      "data": "2026-11-16",
+      "titulo": "Painel A3 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a1-v24",
+      "data": "2026-11-16",
+      "titulo": "Painel A1 atualizado",
+      "texto": "Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a31-v12",
       "data": "2026-11-16",
