@@ -621,10 +621,10 @@
     }
   ],
   "app": {
-    "versao": "1.9.12",
-    "codigo": 22,
+    "versao": "1.9.13",
+    "codigo": 23,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Agora é preciso entrar com e-mail ou Google (com a opção de manter conectado). Painel de botões em leque ao lado dos painéis, página de Contato e suporte e pedido de permissão para publicar painel."
+    "notas": "Button Box revisadas: luzes dos botões na cor do modo de condução (Eco, Comfort, Sport, Heavy); velocímetro e RPM acendem com a chave e fazem a checagem como os painéis; botão para voltar ao menu e trocar de Button Box sem sair; só ficam ativos os botões que existem no ETS2/ATS."
   },
   "programa": {
     "versao": "1.9.6",
