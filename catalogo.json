@@ -726,6 +726,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a55.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A55.simhubdash",
       "novidades": "Painel novo. Dados do trabalho, da viagem e do veículo ao vivo, danos por componente, faixa inferior com totais e abertura NEXUS."
+    },
+    {
+      "id": "nexus_cockpit_a56",
+      "nome": "Nexus Cockpit A56 Informações Laranja",
+      "autor": "Cildo Jr",
+      "descricao": "Painel de informações laranja: danos por componente, dados do trabalho, da viagem e do veículo ao vivo, mais a faixa de distância, tempo, combustível e odômetro.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 22.6,
+      "miniatura": "miniaturas/nexus_cockpit_a56.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A56.simhubdash",
+      "novidades": "Painel novo. Dados do trabalho, da viagem e do veículo ao vivo, danos por componente, faixa inferior com totais e abertura NEXUS."
     }
   ],
   "abas": [
@@ -936,6 +949,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a56",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A56 Informações Laranja",
+      "texto": "Chegou o Nexus Cockpit A56 Informações Laranja, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a55",
       "data": "2026-11-16",
