@@ -531,6 +531,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a40.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A40.simhubdash",
       "novidades": true
+    },
+    {
+      "id": "nexus_cockpit_a41",
+      "nome": "Nexus Cockpit A41 Scania Ciano",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Scania ciano: velocímetro e conta-giros analógicos, velocidade digital, barras de pressão, combustível e temperatura, marcha, hora e autonomia.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 24.9,
+      "miniatura": "miniaturas/nexus_cockpit_a41.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A41.simhubdash",
+      "novidades": true
     }
   ],
   "abas": [
@@ -741,6 +754,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a41",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A41 Scania Ciano",
+      "texto": "Chegou o Nexus Cockpit A41 Scania Ciano, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a40",
       "data": "2026-11-16",
