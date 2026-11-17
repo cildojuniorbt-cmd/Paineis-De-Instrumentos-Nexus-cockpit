@@ -355,13 +355,13 @@
       "nome": "Nexus Cockpit A27 Peterbilt",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico Peterbilt com oito relógios (giros, velocidade, óleo, temperatura, ar 1 e 2, volts e combustível), visor central que troca de página (viagem e consumo, mapa ao vivo, manutenção), setas abaixo de RPM e km/h e barra de luzes com injeção. 4 modos de condução mudam a cor dos ponteiros e do selo (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Toque no logo Peterbilt para trocar.",
-      "versao": "1.1",
-      "atualizado": "2026-11-13",
+      "versao": "1.2",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 40.0,
+      "tamanhoMB": 40.7,
       "miniatura": "miniaturas/nexus_cockpit_a27.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A27.simhubdash",
-      "novidades": "Versão 1.1: a fileira de chaves de baixo subiu e agora funciona: farol, neblina, pisca-alerta e limpador acendem conforme o jogo. Painel novo. Abertura NEXUS e Peterbilt só no visor central, com o resto apagado e acendendo junto, varredura dos oito ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, bloqueio de diferencial, reserva de combustível piscando e injeção no lugar do último ícone."
+      "novidades": "Versão 1.2: Chaves acendem só o ícone, animação maior, barra do app não cobre. a fileira de chaves de baixo subiu e agora funciona: farol, neblina, pisca-alerta e limpador acendem conforme o jogo. Painel novo. Abertura NEXUS e Peterbilt só no visor central, com o resto apagado e acendendo junto, varredura dos oito ponteiros, setas, farol alto, freio, bateria, temperatura piscando em azul com motor frio, bloqueio de diferencial, reserva de combustível piscando e injeção no lugar do último ícone."
     },
     {
       "id": "nexus_cockpit_a28",
@@ -624,6 +624,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a27-v12",
+      "data": "2026-11-16",
+      "titulo": "Peterbilt A27 atualizado",
+      "texto": "Animação de abertura maior, barra inferior do app não cobre mais o painel e as páginas trocam só o miolo. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-13-a31-v11",
       "data": "2026-11-13",
