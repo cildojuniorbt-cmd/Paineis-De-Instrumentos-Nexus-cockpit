@@ -583,6 +583,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a44.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A44.simhubdash",
       "novidades": true
+    },
+    {
+      "id": "nexus_cockpit_a45",
+      "nome": "Nexus Cockpit A45 Scania Minimalista",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Scania digital minimalista: velocidade e rotação com medidores verticais ao vivo, barras de óleo, temperatura e pressão, marcha, consumo, hora e odômetro.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 15.6,
+      "miniatura": "miniaturas/nexus_cockpit_a45.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A45.simhubdash",
+      "novidades": true
     }
   ],
   "abas": [
@@ -793,6 +806,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a45",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A45 Scania Minimalista",
+      "texto": "Chegou o Nexus Cockpit A45 Scania Minimalista, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a44",
       "data": "2026-11-16",
