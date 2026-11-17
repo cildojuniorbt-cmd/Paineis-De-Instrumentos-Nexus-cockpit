@@ -225,13 +225,13 @@
       "nome": "Nexus Cockpit A17 Ciano",
       "autor": "Cildo Jr",
       "descricao": "Painel semicircular com visor central: mostra caminhão, mapa ao vivo e manutenção no meio, velocímetro e conta-giros grandes e mini marcadores de combustível e temperatura. 4 modos de condução trocam a cor do painel (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Toque no logo NEXUS do visor ou use o app para trocar.",
-      "versao": "1.0",
-      "atualizado": "2026-11-12",
+      "versao": "1.1",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 25.1,
+      "tamanhoMB": 25.4,
       "miniatura": "miniaturas/nexus_cockpit_a17.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A17.simhubdash",
-      "novidades": "Painel novo. Animação de abertura NEXUS só no visor central, com o resto do painel apagado e acendendo junto, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.1: Animação de abertura bem maior. Painel novo. Animação de abertura NEXUS só no visor central, com o resto do painel apagado e acendendo junto, varredura dos ponteiros, temperatura piscando em azul com motor frio, luzes de injeção, bateria e bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a18",
@@ -264,39 +264,39 @@
       "nome": "Nexus Cockpit A20 Analógico Clássico",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico clássico com conta-giros e velocímetro grandes, relógios auxiliares, fileira de luzes no topo e visor de viagem. 4 modos de condução trocam a cor dos ponteiros (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Troque pelo app.",
-      "versao": "1.1",
-      "atualizado": "2026-11-13",
+      "versao": "1.2",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 29.2,
+      "tamanhoMB": 29.8,
       "miniatura": "miniaturas/nexus_cockpit_a20.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A20.simhubdash",
-      "novidades": "Versão 1.1: os 13 ponteiros agora têm varredura e mudam de cor com o modo de condução; o painel fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
+      "novidades": "Versão 1.2: Nova animação de abertura com NEXUS COCKPIT, grande e centralizada. os 13 ponteiros agora têm varredura e mudam de cor com o modo de condução; o painel fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
     },
     {
       "id": "nexus_cockpit_a21",
       "nome": "Nexus Cockpit A21 Analógico Azul",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico com conta-giros, velocímetro, relógios auxiliares, duas fileiras de luzes e visor de status com marcha e piloto automático. 4 modos de condução trocam a cor dos detalhes e dos ponteiros (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Troque pelo app.",
-      "versao": "1.1",
-      "atualizado": "2026-11-13",
+      "versao": "1.2",
+      "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 31.4,
+      "tamanhoMB": 32.1,
       "miniatura": "miniaturas/nexus_cockpit_a21.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A21.simhubdash",
-      "novidades": "Versão 1.1: o painel agora fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, ícone de neve piscando com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
+      "novidades": "Versão 1.2: Nova animação de abertura com NEXUS COCKPIT, grande e centralizada. o painel agora fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, ícone de neve piscando com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
     },
     {
       "id": "nexus_cockpit_a22",
       "nome": "Nexus Cockpit A22 Mercedes Analógico",
       "autor": "Cildo Jr",
       "descricao": "Painel analógico Mercedes-Benz com velocímetro e conta-giros grandes, relógios auxiliares, hora, marcha e fileira de luzes. 4 modos de condução trocam a cor do painel (Eco verde, Comfort azul, Sport vermelho, Heavy amarelo). Troque pelo app.",
-      "versao": "1.2",
+      "versao": "1.3",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 26.3,
+      "tamanhoMB": 26.9,
       "miniatura": "miniaturas/nexus_cockpit_a22.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A22.simhubdash",
-      "novidades": "Versão 1.2: A barra inferior do app não cobre mais as luzes. o painel agora fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
+      "novidades": "Versão 1.3: Nova animação de abertura com NEXUS e Mercedes-Benz, grande e centralizada. A barra inferior do app não cobre mais as luzes. o painel agora fica apagado e acende um pouco na primeira chave e por inteiro na partida. Painel novo. Varredura dos ponteiros ao ligar a chave, luzes de injeção, bateria, óleo e bloqueio de diferencial, temperatura piscando em azul com motor frio, reserva de combustível piscando e câmbio M/D/L/H. Os relógios pequenos são decorativos nesta versão."
     },
     {
       "id": "nexus_cockpit_a23",
@@ -624,6 +624,34 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a22-v13",
+      "data": "2026-11-16",
+      "titulo": "Painel A22 atualizado",
+      "texto": "Nova animação de abertura com NEXUS e Mercedes-Benz. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a21-v12",
+      "data": "2026-11-16",
+      "titulo": "Painel A21 atualizado",
+      "texto": "Nova animação de abertura com NEXUS COCKPIT. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a20-v12",
+      "data": "2026-11-16",
+      "titulo": "Painel A20 atualizado",
+      "texto": "Nova animação de abertura com NEXUS COCKPIT. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a17-v11",
+      "data": "2026-11-16",
+      "titulo": "Cyan A17 atualizado",
+      "texto": "Animação de abertura bem maior. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a22-v12",
       "data": "2026-11-16",
