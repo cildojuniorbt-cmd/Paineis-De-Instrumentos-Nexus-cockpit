@@ -635,6 +635,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a48.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A48.simhubdash",
       "novidades": true
+    },
+    {
+      "id": "nexus_cockpit_a49",
+      "nome": "Nexus Cockpit A49 Scania 113H Ciano",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Scania 113H ciano: conta-giros e velocímetro analógicos com leitura digital, barras de combustível e AdBlue, óleo, bateria, temperatura, ar 1 e 2, marcha, hora, autonomia, odômetro e consumo.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 22.4,
+      "miniatura": "miniaturas/nexus_cockpit_a49.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A49.simhubdash",
+      "novidades": true
     }
   ],
   "abas": [
@@ -845,6 +858,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a49",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A49 Scania 113H Ciano",
+      "texto": "Chegou o Nexus Cockpit A49 Scania 113H Ciano, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a48",
       "data": "2026-11-16",
