@@ -466,6 +466,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a35.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A35.simhubdash",
       "novidades": "Painel novo. Abertura NEXUS e Scania, varredura dos ponteiros e arcos, luzes, câmbio M/D, 4 modos de condução e 3 páginas."
+    },
+    {
+      "id": "nexus_cockpit_a36",
+      "nome": "Nexus Cockpit A36 DAF Madeira",
+      "autor": "Cildo Jr",
+      "descricao": "Painel DAF com acabamento em madeira: velocímetro e RPM analógicos, barras de combustível e temperatura, display central, luzes, mapa esmaecido e manutenção.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 29.4,
+      "miniatura": "miniaturas/nexus_cockpit_a36.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A36.simhubdash",
+      "novidades": "Painel novo. Abertura NEXUS e DAF, varredura dos ponteiros e barras, luzes, 4 modos de condução e 3 páginas."
     }
   ],
   "abas": [
@@ -676,6 +689,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a36",
+      "data": "2026-11-16",
+      "titulo": "Novo painel: A36 DAF Madeira",
+      "texto": "Chegou o Nexus Cockpit A36 DAF Madeira, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a35",
       "data": "2026-11-16",
