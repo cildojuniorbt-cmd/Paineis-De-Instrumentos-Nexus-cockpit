@@ -752,6 +752,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a57.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A57.simhubdash",
       "novidades": "Painel novo. Abertura NEXUS e Scania, ponteiros ao vivo, luzes, limite de velocidade, 4 modos de condução e páginas de mapa e manutenção."
+    },
+    {
+      "id": "nexus_cockpit_a58",
+      "nome": "Nexus Cockpit A58 Jesus Ouro",
+      "autor": "Cildo Jr",
+      "descricao": "Cluster preto e dourado com Jesus e cruz: velocímetro, conta-giros, mostradores de combustível, temperatura, óleo e bateria ao vivo, faixa com viagem, distância, autonomia, consumo, hora e temperatura, e luzes de aviso.",
+      "versao": "1.0",
+      "atualizado": "2026-11-17",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 27.7,
+      "miniatura": "miniaturas/nexus_cockpit_a58.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A58.simhubdash",
+      "novidades": "Painel novo. Abertura NEXUS, ponteiros ao vivo, luzes, 4 modos de condução e páginas de mapa e manutenção."
     }
   ],
   "abas": [
@@ -962,6 +975,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-17-a58",
+      "data": "2026-11-17",
+      "titulo": "Novo painel: A58 Jesus Ouro",
+      "texto": "Chegou o Nexus Cockpit A58 Jesus Ouro, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a57",
       "data": "2026-11-16",
