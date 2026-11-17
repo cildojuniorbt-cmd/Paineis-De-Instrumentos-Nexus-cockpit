@@ -557,6 +557,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a42.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A42.simhubdash",
       "novidades": true
+    },
+    {
+      "id": "nexus_cockpit_a43",
+      "nome": "Nexus Cockpit A43 DAF Digital Azul",
+      "autor": "Cildo Jr",
+      "descricao": "Painel DAF digital azul: velocidade e rotação em números grandes, barras de combustível e AdBlue, marcha, hora, autonomia, odômetro, temperatura e luzes de freio/ABS.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 22.6,
+      "miniatura": "miniaturas/nexus_cockpit_a43.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A43.simhubdash",
+      "novidades": true
     }
   ],
   "abas": [
@@ -767,6 +780,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a43",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A43 DAF Digital Azul",
+      "texto": "Chegou o Nexus Cockpit A43 DAF Digital Azul, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a42",
       "data": "2026-11-16",
