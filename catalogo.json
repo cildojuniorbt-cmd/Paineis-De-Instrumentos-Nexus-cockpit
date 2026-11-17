@@ -504,7 +504,7 @@
       "tamanhoMB": 26.9,
       "miniatura": "miniaturas/nexus_cockpit_a38.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A38.simhubdash",
-      "novidades": true
+      "novidades": "Painel novo. Abertura NEXUS e MAN TGX, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a39",
@@ -517,7 +517,7 @@
       "tamanhoMB": 20.6,
       "miniatura": "miniaturas/nexus_cockpit_a39.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A39.simhubdash",
-      "novidades": true
+      "novidades": "Painel novo. Abertura NEXUS e Mercedes Actros, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a40",
@@ -530,7 +530,7 @@
       "tamanhoMB": 25.9,
       "miniatura": "miniaturas/nexus_cockpit_a40.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A40.simhubdash",
-      "novidades": true
+      "novidades": "Painel novo. Abertura NEXUS e Mercedes Actros, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a41",
@@ -543,137 +543,150 @@
       "tamanhoMB": 24.9,
       "miniatura": "miniaturas/nexus_cockpit_a41.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A41.simhubdash",
-      "novidades": true
+      "novidades": "Painel novo. Abertura NEXUS e Scania, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a42",
       "nome": "Nexus Cockpit A42 Mercedes Clássico",
       "autor": "Cildo Jr",
       "descricao": "Painel Mercedes clássico: velocímetro e conta-giros analógicos, combustível, pressão de ar, display central com marcha, odômetro, hora e temperatura, e fileira de luzes de aviso.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 25.2,
       "miniatura": "miniaturas/nexus_cockpit_a42.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A42.simhubdash",
-      "novidades": true
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e Mercedes, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a43",
       "nome": "Nexus Cockpit A43 DAF Digital Azul",
       "autor": "Cildo Jr",
       "descricao": "Painel DAF digital azul: velocidade e rotação em números grandes, barras de combustível e AdBlue, marcha, hora, autonomia, odômetro, temperatura e luzes de freio/ABS.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 22.6,
+      "tamanhoMB": 22.4,
       "miniatura": "miniaturas/nexus_cockpit_a43.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A43.simhubdash",
-      "novidades": true
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e DAF, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a44",
       "nome": "Nexus Cockpit A44 DAF Digital Barras",
       "autor": "Cildo Jr",
       "descricao": "Painel DAF digital: velocidade e rotação em números grandes, marcha, hora, autonomia, consumo médio, odômetro, temperatura, combustível e AdBlue.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 22.4,
+      "tamanhoMB": 22.3,
       "miniatura": "miniaturas/nexus_cockpit_a44.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A44.simhubdash",
-      "novidades": true
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e DAF, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a45",
       "nome": "Nexus Cockpit A45 Scania Minimalista",
       "autor": "Cildo Jr",
       "descricao": "Painel Scania digital minimalista: velocidade e rotação com medidores verticais ao vivo, barras de óleo, temperatura e pressão, marcha, consumo, hora e odômetro.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 15.6,
+      "tamanhoMB": 15.5,
       "miniatura": "miniaturas/nexus_cockpit_a45.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A45.simhubdash",
-      "novidades": true
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e Scania, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a46",
       "nome": "Nexus Cockpit A46 Volvo Ciano",
       "autor": "Cildo Jr",
       "descricao": "Painel Volvo ciano: velocímetro analógico, barra de rotação, barras de combustível e temperatura, marcha, consumo, autonomia, hora e odômetro.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 17.0,
+      "tamanhoMB": 16.9,
       "miniatura": "miniaturas/nexus_cockpit_a46.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A46.simhubdash",
-      "novidades": true
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e Volvo, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a47",
       "nome": "Nexus Cockpit A47 Volvo Verde (mph)",
       "autor": "Cildo Jr",
       "descricao": "Painel Volvo com velocímetro analógico em mph, barras de rotação, combustível, AdBlue, temperatura, óleo e pressão, marcha, consumo em mpg e distâncias em milhas.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 25.9,
+      "tamanhoMB": 25.7,
       "miniatura": "miniaturas/nexus_cockpit_a47.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A47.simhubdash",
-      "novidades": true
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e Volvo, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a48",
       "nome": "Nexus Cockpit A48 Scania Clássico Verde",
       "autor": "Cildo Jr",
       "descricao": "Cluster Scania clássico verde: velocímetro, conta-giros e seis mostradores (combustível, temperatura, óleo, bateria, ar 1 e 2) ao vivo, luzes de aviso, marcha, hora e odômetro.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 19.9,
       "miniatura": "miniaturas/nexus_cockpit_a48.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A48.simhubdash",
-      "novidades": true
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e Scania, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a49",
       "nome": "Nexus Cockpit A49 Scania 113H Ciano",
       "autor": "Cildo Jr",
       "descricao": "Painel Scania 113H ciano: conta-giros e velocímetro analógicos com leitura digital, barras de combustível e AdBlue, óleo, bateria, temperatura, ar 1 e 2, marcha, hora, autonomia, odômetro e consumo.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 22.4,
       "miniatura": "miniaturas/nexus_cockpit_a49.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A49.simhubdash",
-      "novidades": true
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e Scania 113H, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a50",
       "nome": "Nexus Cockpit A50 Scania 113H Laranja",
       "autor": "Cildo Jr",
       "descricao": "Painel Scania 113H laranja: conta-giros e velocímetro analógicos com leitura digital, barras de combustível e AdBlue, óleo, bateria, temperatura, ar 1 e 2, marcha, hora, autonomia, odômetro e consumo.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 23.5,
       "miniatura": "miniaturas/nexus_cockpit_a50.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A50.simhubdash",
-      "novidades": true
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e Scania 113H, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
     },
     {
       "id": "nexus_cockpit_a51",
       "nome": "Nexus Cockpit A51 HUD Azul Mapa",
       "autor": "Cildo Jr",
       "descricao": "HUD azul com mapa: velocidade e giros digitais, setas laterais, barras de combustível e temperatura, distância da navegação, autonomia, hora, carga, consumo e modo de câmbio.",
+      "versao": "1.1",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 21.7,
+      "miniatura": "miniaturas/nexus_cockpit_a51.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A51.simhubdash",
+      "novidades": "Versão 1.1: corrigido o tamanho da tela do painel, que podia sair cortado ou deslocado. Painel novo. Abertura NEXUS e Nexus, ponteiros e barras ao vivo, luzes, câmbio M/D, 4 modos de condução e páginas de mapa e manutenção."
+    },
+    {
+      "id": "nexus_cockpit_a52",
+      "nome": "Nexus Cockpit A52 Informações Verde",
+      "autor": "Cildo Jr",
+      "descricao": "Painel de informações verde: danos do caminhão, dados do trabalho, da viagem e do veículo ao vivo.",
       "versao": "1.0",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 21.9,
-      "miniatura": "miniaturas/nexus_cockpit_a51.jpg",
-      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A51.simhubdash",
-      "novidades": true
+      "tamanhoMB": 22.8,
+      "miniatura": "miniaturas/nexus_cockpit_a52.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A52.simhubdash",
+      "novidades": "Painel novo. Dados do trabalho, da viagem e do veículo ao vivo, danos por componente e abertura NEXUS."
     }
   ],
   "abas": [
@@ -884,6 +897,83 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a52",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A52 Informações Verde",
+      "texto": "Chegou o Nexus Cockpit A52 Informações Verde, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a51-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A51 atualizado",
+      "texto": "O painel A51 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a50-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A50 atualizado",
+      "texto": "O painel A50 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a49-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A49 atualizado",
+      "texto": "O painel A49 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a48-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A48 atualizado",
+      "texto": "O painel A48 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a47-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A47 atualizado",
+      "texto": "O painel A47 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a46-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A46 atualizado",
+      "texto": "O painel A46 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a45-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A45 atualizado",
+      "texto": "O painel A45 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a44-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A44 atualizado",
+      "texto": "O painel A44 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a43-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A43 atualizado",
+      "texto": "O painel A43 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
+    {
+      "id": "2026-11-16-a42-v11",
+      "data": "2026-11-16",
+      "titulo": "Painel A42 atualizado",
+      "texto": "O painel A42 foi corrigido: o tamanho da tela estava errado e o desenho podia aparecer cortado. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a51",
       "data": "2026-11-16",
