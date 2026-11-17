@@ -687,6 +687,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a52.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A52.simhubdash",
       "novidades": "Painel novo. Dados do trabalho, da viagem e do veículo ao vivo, danos por componente e abertura NEXUS."
+    },
+    {
+      "id": "nexus_cockpit_a53",
+      "nome": "Nexus Cockpit A53 Informações Âmbar",
+      "autor": "Cildo Jr",
+      "descricao": "Painel de informações âmbar: danos por componente, dados do trabalho, da viagem e do veículo ao vivo.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 24.7,
+      "miniatura": "miniaturas/nexus_cockpit_a53.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A53.simhubdash",
+      "novidades": "Painel novo. Dados do trabalho, da viagem e do veículo ao vivo, danos por componente e abertura NEXUS."
     }
   ],
   "abas": [
@@ -897,6 +910,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a53",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A53 Informações Âmbar",
+      "texto": "Chegou o Nexus Cockpit A53 Informações Âmbar, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a52",
       "data": "2026-11-16",
