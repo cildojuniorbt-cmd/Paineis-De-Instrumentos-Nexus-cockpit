@@ -453,6 +453,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a34.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A34.simhubdash",
       "novidades": "Painel novo. Abertura NEXUS e DAF, varredura dos ponteiros e barras, luzes, câmbio M/D, 4 modos de condução e 3 páginas."
+    },
+    {
+      "id": "nexus_cockpit_a35",
+      "nome": "Nexus Cockpit A35 Scania Analógico",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Scania com velocímetro e RPM analógicos, arcos de combustível e temperatura, display central com combustível e distância, luzes, mapa esmaecido e manutenção.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 21.3,
+      "miniatura": "miniaturas/nexus_cockpit_a35.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A35.simhubdash",
+      "novidades": "Painel novo. Abertura NEXUS e Scania, varredura dos ponteiros e arcos, luzes, câmbio M/D, 4 modos de condução e 3 páginas."
     }
   ],
   "abas": [
@@ -663,6 +676,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a35",
+      "data": "2026-11-16",
+      "titulo": "Novo painel: A35 Scania Analógico",
+      "texto": "Chegou o Nexus Cockpit A35 Scania Analógico, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a34",
       "data": "2026-11-16",
