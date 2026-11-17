@@ -414,6 +414,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a29.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A29.simhubdash",
       "novidades": "Versão 1.2: Painel de luzes embaixo, animação maior, sem barra cobrindo. os raios agora se mexem em animação (descem, acendem e tremem) na abertura e ao trocar o modo de condução. Primeira versão: arcos de RPM e velocidade animados, raios do fundo animados na abertura e ao trocar o modo de condução, logo Nexus e nome do caminhão na animação inicial, 4 modos de condução, mapa e manutenção."
+    },
+    {
+      "id": "nexus_cockpit_a32",
+      "nome": "Nexus Cockpit A32 Ford Cargo",
+      "autor": "Cildo Jr",
+      "descricao": "Painel azul com Ford Cargo: velocímetro e RPM analógicos, quatro medidores (temperatura, combustível e dois de ar), luzes, mapa esmaecido e manutenção.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 27.7,
+      "miniatura": "miniaturas/nexus_cockpit_a32.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A32.simhubdash",
+      "novidades": "Painel novo. Abertura NEXUS e Ford Cargo, varredura de todos os ponteiros, setas, farol, neblina, injeção, ABS, bloqueio de diferencial e câmbio M/D. 4 modos de condução (Eco, Comfort, Sport e Heavy), 3 páginas."
     }
   ],
   "abas": [
@@ -624,6 +637,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a32",
+      "data": "2026-11-16",
+      "titulo": "Novo painel: A32 Ford Cargo",
+      "texto": "Chegou o Nexus Cockpit A32 Ford Cargo, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a11-v15",
       "data": "2026-11-16",
