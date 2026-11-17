@@ -147,13 +147,13 @@
       "nome": "Nexus Cockpit A11 Volvo FH Cluster",
       "autor": "Cildo Jr",
       "descricao": "Volvo FH com tela central: só o palco do meio troca de página (caminhão, mapa ao vivo, manutenção). 4 modos de condução com cores Eco verde, Comfort azul, Sport vermelho e Heavy amarelo, ponteiros acompanhando o modo. Toque no logo Volvo ou use o app para trocar.",
-      "versao": "1.4",
+      "versao": "1.5",
       "atualizado": "2026-11-16",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 31.0,
+      "tamanhoMB": 30.9,
       "miniatura": "miniaturas/nexus_cockpit_a11.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A11.simhubdash",
-      "novidades": "Versão 1.4: Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
+      "novidades": "Versão 1.5: Nova animação de abertura NEXUS VOLVO FH com o caminhão. Varredura de todos os marcadores (barras e ponteiros) ao ligar a chave. Temperatura pisca em azul com motor frio; luzes de injeção e bateria acendem ao ligar a chave. Bloqueio de diferencial, reserva de combustível piscando e câmbio M/D/L/H."
     },
     {
       "id": "nexus_cockpit_a12",
@@ -624,6 +624,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a11-v15",
+      "data": "2026-11-16",
+      "titulo": "Volvo FH A11 atualizado",
+      "texto": "Nova animação de abertura NEXUS VOLVO FH com o caminhão. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a22-v13",
       "data": "2026-11-16",
