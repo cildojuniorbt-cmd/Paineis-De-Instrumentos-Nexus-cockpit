@@ -505,6 +505,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a38.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A38.simhubdash",
       "novidades": true
+    },
+    {
+      "id": "nexus_cockpit_a39",
+      "nome": "Nexus Cockpit A39 Mercedes Actros",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Mercedes Actros laranja: velocímetro, conta-giros, combustível e pressão de ar analógicos, velocidade digital central, marcha, hora, temperatura e luzes de aviso.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 20.6,
+      "miniatura": "miniaturas/nexus_cockpit_a39.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A39.simhubdash",
+      "novidades": true
     }
   ],
   "abas": [
@@ -715,6 +728,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a39",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A39 Mercedes Actros",
+      "texto": "Chegou o Nexus Cockpit A39 Mercedes Actros, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a38",
       "data": "2026-11-16",
