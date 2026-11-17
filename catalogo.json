@@ -492,6 +492,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a37.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A37.simhubdash",
       "novidades": "Painel novo. Abertura NEXUS e Constellation, varredura dos 6 ponteiros, luzes, câmbio M/D, 4 modos de condução e 3 páginas."
+    },
+    {
+      "id": "nexus_cockpit_a38",
+      "nome": "Nexus Cockpit A38 MAN TGX",
+      "autor": "Cildo Jr",
+      "descricao": "Painel MAN TGX híbrido: velocímetro e conta-giros analógicos, barras de combustível e AdBlue, display central com marcha, hora, consumo e autonomia.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 26.9,
+      "miniatura": "miniaturas/nexus_cockpit_a38.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A38.simhubdash",
+      "novidades": true
     }
   ],
   "abas": [
@@ -702,6 +715,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a38",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A38 MAN TGX",
+      "texto": "Chegou o Nexus Cockpit A38 MAN TGX, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a37",
       "data": "2026-11-16",
