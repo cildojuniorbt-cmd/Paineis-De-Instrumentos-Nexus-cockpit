@@ -751,7 +751,7 @@
       "tamanhoMB": 11.9,
       "miniatura": "miniaturas/nexus_cockpit_a57.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A57.simhubdash",
-      "novidades": true
+      "novidades": "Painel novo. Abertura NEXUS e Scania, ponteiros ao vivo, luzes, limite de velocidade, 4 modos de condução e páginas de mapa e manutenção."
     }
   ],
   "abas": [
