@@ -622,6 +622,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a47.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A47.simhubdash",
       "novidades": true
+    },
+    {
+      "id": "nexus_cockpit_a48",
+      "nome": "Nexus Cockpit A48 Scania Clássico Verde",
+      "autor": "Cildo Jr",
+      "descricao": "Cluster Scania clássico verde: velocímetro, conta-giros e seis mostradores (combustível, temperatura, óleo, bateria, ar 1 e 2) ao vivo, luzes de aviso, marcha, hora e odômetro.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 19.9,
+      "miniatura": "miniaturas/nexus_cockpit_a48.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A48.simhubdash",
+      "novidades": true
     }
   ],
   "abas": [
@@ -832,6 +845,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a48",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A48 Scania Clássico",
+      "texto": "Chegou o Nexus Cockpit A48 Scania Clássico Verde, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a47",
       "data": "2026-11-16",
