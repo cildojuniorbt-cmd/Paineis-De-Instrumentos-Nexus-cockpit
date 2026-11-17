@@ -661,6 +661,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a50.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A50.simhubdash",
       "novidades": true
+    },
+    {
+      "id": "nexus_cockpit_a51",
+      "nome": "Nexus Cockpit A51 HUD Azul Mapa",
+      "autor": "Cildo Jr",
+      "descricao": "HUD azul com mapa: velocidade e giros digitais, setas laterais, barras de combustível e temperatura, distância da navegação, autonomia, hora, carga, consumo e modo de câmbio.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 21.9,
+      "miniatura": "miniaturas/nexus_cockpit_a51.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A51.simhubdash",
+      "novidades": true
     }
   ],
   "abas": [
@@ -871,6 +884,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a51",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A51 HUD Azul Mapa",
+      "texto": "Chegou o Nexus Cockpit A51 HUD Azul Mapa, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a50",
       "data": "2026-11-16",
