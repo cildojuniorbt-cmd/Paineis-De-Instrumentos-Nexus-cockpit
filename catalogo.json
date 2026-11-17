@@ -518,6 +518,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a39.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A39.simhubdash",
       "novidades": true
+    },
+    {
+      "id": "nexus_cockpit_a40",
+      "nome": "Nexus Cockpit A40 Mercedes Actros Gelo",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Mercedes Actros branco/azul: velocímetro, conta-giros, combustível e pressão de ar analógicos, velocidade digital, marcha, hora, temperatura e autonomia.",
+      "versao": "1.0",
+      "atualizado": "2026-11-16",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 25.9,
+      "miniatura": "miniaturas/nexus_cockpit_a40.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A40.simhubdash",
+      "novidades": true
     }
   ],
   "abas": [
@@ -728,6 +741,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-16-a40",
+      "data": "2026-11-16",
+      "titulo": "Nexus Cockpit A40 Mercedes Actros Gelo",
+      "texto": "Chegou o Nexus Cockpit A40 Mercedes Actros Gelo, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-16-a39",
       "data": "2026-11-16",
