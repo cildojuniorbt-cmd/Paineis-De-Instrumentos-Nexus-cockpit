@@ -791,6 +791,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a60.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A60.simhubdash",
       "novidades": "Painel novo. Abertura NEXUS e Iveco, ponteiros ao vivo, luzes e setas, 4 modos de condução e páginas de mapa e manutenção."
+    },
+    {
+      "id": "nexus_cockpit_a61",
+      "nome": "Nexus Cockpit A61 GTA VI Sport",
+      "autor": "Cildo Jr",
+      "descricao": "Painel GTA VI com mapa ao vivo no círculo da esquerda, velocímetro, estrelas que marcam o combustível, abas de toque e 4 modos de condução.",
+      "versao": "1.0",
+      "atualizado": "2026-11-17",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 29.7,
+      "miniatura": "miniaturas/nexus_cockpit_a61.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A61.simhubdash",
+      "novidades": "Mapa redondo ao vivo, estrelas = combustível, lâmpadas, páginas de dados e manutenção, abas de toque (mapa, veículos, estatísticas, missões, config.)."
     }
   ],
   "abas": [
@@ -1001,6 +1014,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-17-a61",
+      "data": "2026-11-17",
+      "titulo": "Novo painel: A61 GTA VI Sport",
+      "texto": "Chegou o Nexus Cockpit A61 GTA VI Sport, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-17-a60",
       "data": "2026-11-17",
