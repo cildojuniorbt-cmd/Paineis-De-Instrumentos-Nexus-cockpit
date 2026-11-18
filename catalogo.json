@@ -804,6 +804,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a61.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A61.simhubdash",
       "novidades": "Mapa redondo ao vivo, estrelas = combustível, lâmpadas, páginas de dados e manutenção, abas de toque (mapa, veículos, estatísticas, missões, config.)."
+    },
+    {
+      "id": "nexus_cockpit_a62",
+      "nome": "Nexus Cockpit A62 GTA VI Wide",
+      "autor": "Cildo Jr",
+      "descricao": "Painel GTA VI ultra-wide com mapa ao vivo no círculo da esquerda, anel de RPM, velocímetro e estrelas que marcam o combustível.",
+      "versao": "1.0",
+      "atualizado": "2026-11-17",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 30.4,
+      "miniatura": "miniaturas/nexus_cockpit_a62.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A62.simhubdash",
+      "novidades": "Mapa redondo ao vivo com anel de RPM, estrelas = combustível, lâmpadas, páginas de dados e manutenção, 4 modos."
     }
   ],
   "abas": [
@@ -1014,6 +1027,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-17-a62",
+      "data": "2026-11-17",
+      "titulo": "Novo painel: A62 GTA VI Wide",
+      "texto": "Chegou o Nexus Cockpit A62 GTA VI Wide, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-17-a61",
       "data": "2026-11-17",
