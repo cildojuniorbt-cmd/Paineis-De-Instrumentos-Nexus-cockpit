@@ -1024,10 +1024,10 @@
     }
   ],
   "app": {
-    "versao": "1.9.16",
-    "codigo": 26,
+    "versao": "1.9.17",
+    "codigo": 27,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Multimídia: aba Mídia na página inicial e player nos painéis para controlar a música do PC (tocar, pausar, próxima, anterior, volume), com comando de voz. Mapa com empresas e cidades, tela Mapa com vários visuais e giro de tela corrigido."
+    "notas": "Mapa redondo ao vivo nos painéis (como nos novos painéis GTA VI), botões do mapa mais fáceis de tocar e painel mais suave ao trocar de página. Multimídia: aba Mídia na página inicial e player nos painéis para controlar a música do PC (tocar, pausar, próxima, anterior, volume), com comando de voz. Mapa com empresas e cidades, tela Mapa com vários visuais e giro de tela corrigido."
   },
   "programa": {
     "versao": "1.9.9",
@@ -1040,6 +1040,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-18-app-1917",
+      "data": "2026-11-18",
+      "titulo": "App 1.9.17: mapa redondo nos painéis e painel mais suave",
+      "texto": "O app ganhou o mapa ao vivo em formato redondo dentro dos painéis (usado nos painéis GTA VI A61, A62 e A63), botões do mapa maiores e mais fáceis de tocar, e os painéis ficaram mais suaves ao trocar de página. Atualize o app para usar; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-17-a63",
       "data": "2026-11-17",
