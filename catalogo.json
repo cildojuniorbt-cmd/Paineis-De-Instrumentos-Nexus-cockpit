@@ -817,6 +817,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a62.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A62.simhubdash",
       "novidades": "Mapa redondo ao vivo com anel de RPM, estrelas = combustível, lâmpadas, páginas de dados e manutenção, 4 modos."
+    },
+    {
+      "id": "nexus_cockpit_a63",
+      "nome": "Nexus Cockpit A63 GTA VI Vice City",
+      "autor": "Cildo Jr",
+      "descricao": "Painel GTA VI Vice City com mapa ao vivo no lugar do conta-giros, velocímetro, marcadores de combustível, óleo e temperatura, estrelas de estado e abas de toque.",
+      "versao": "1.0",
+      "atualizado": "2026-11-17",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 33.0,
+      "miniatura": "miniaturas/nexus_cockpit_a63.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A63.simhubdash",
+      "novidades": "Mapa ao vivo dentro do conta-giros, ponteiros de combustível/óleo/temperatura, estrelas = estado do veículo, abas de toque, páginas de dados e manutenção."
     }
   ],
   "abas": [
@@ -1027,6 +1040,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-17-a63",
+      "data": "2026-11-17",
+      "titulo": "Novo painel: A63 GTA VI Vice City",
+      "texto": "Chegou o Nexus Cockpit A63 GTA VI Vice City, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-17-a62",
       "data": "2026-11-17",
