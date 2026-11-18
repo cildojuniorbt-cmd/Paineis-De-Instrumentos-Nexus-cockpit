@@ -985,15 +985,15 @@
     }
   ],
   "app": {
-    "versao": "1.9.14",
-    "codigo": 24,
+    "versao": "1.9.16",
+    "codigo": 26,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Mapa com empresas, postos e cidades, tela Mapa com vários visuais, giro de tela corrigido (painel e Button Box ficam deitados só enquanto abertos) e logo do Victor Mods nos apoiadores."
+    "notas": "Multimídia: aba Mídia na página inicial e player nos painéis para controlar a música do PC (tocar, pausar, próxima, anterior, volume), com comando de voz. Mapa com empresas e cidades, tela Mapa com vários visuais e giro de tela corrigido."
   },
   "programa": {
-    "versao": "1.9.7",
+    "versao": "1.9.9",
     "instalador": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit_Setup.exe",
-    "notas": "Mapa com empresas e cidades, escolha do visual do mapa, motor e abas unificados e melhorias gerais."
+    "notas": "Lê o que toca no PC (Spotify, YouTube) para a aba Mídia, mapa automático pelo perfil do jogo, mapa também no navegador e empresas no mapa."
   },
   "mac": {
     "versao": "1.9.3",
