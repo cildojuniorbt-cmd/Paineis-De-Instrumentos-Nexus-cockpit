@@ -1043,7 +1043,7 @@
     "versao": "1.9.19",
     "codigo": 29,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Zoom por pinça no mapa dos painéis, aba Mídia e sistema de cupons de acesso na tela Conta."
+    "notas": "Zoom por pinça no mapa dos painéis, aba Mídia, cupons de acesso na tela Conta e correção da tela Mapa."
   },
   "programa": {
     "versao": "1.9.10",
