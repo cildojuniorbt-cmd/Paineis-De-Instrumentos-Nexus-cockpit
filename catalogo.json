@@ -1021,13 +1021,29 @@
         "pagina1.jpg",
         "pagina1_aceso.jpg"
       ]
+    },
+    {
+      "id": "btb013",
+      "nome": "Nexus BTB 013",
+      "autor": "Cildo Jr",
+      "descricao": "Button Box + Mapa: 16 botões do jogo com LEDs, mapa ao vivo e abas Caminhão, Carreta e Checklist. Precisa do app 1.9.18 ou mais novo.",
+      "versao": "1.0",
+      "atualizado": "2026-11-19",
+      "jogos": "ETS2",
+      "tamanhoMB": 0.2,
+      "miniatura": "miniaturas/btb_013.jpg",
+      "pasta": "buttonbox/btb013/",
+      "arquivos": [
+        "layout.json",
+        "pagina1.jpg"
+      ]
     }
   ],
   "app": {
-    "versao": "1.9.17",
-    "codigo": 27,
+    "versao": "1.9.18",
+    "codigo": 28,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Mapa redondo ao vivo nos painéis (como nos novos painéis GTA VI), botões do mapa mais fáceis de tocar e painel mais suave ao trocar de página. Multimídia: aba Mídia na página inicial e player nos painéis para controlar a música do PC (tocar, pausar, próxima, anterior, volume), com comando de voz. Mapa com empresas e cidades, tela Mapa com vários visuais e giro de tela corrigido."
+    "notas": "Novo Button Box Nexus BTB 013 (Button Box + Mapa): mapa ao vivo dentro do Button Box e abas Caminhão, Carreta e Checklist. Baixe em Comunidade › Button Box."
   },
   "programa": {
     "versao": "1.9.9",
