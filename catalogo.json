@@ -1040,15 +1040,15 @@
     }
   ],
   "app": {
-    "versao": "1.9.18",
-    "codigo": 28,
+    "versao": "1.9.19",
+    "codigo": 29,
     "apk": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit.apk",
-    "notas": "Novo Button Box Nexus BTB 013 (Button Box + Mapa): mapa ao vivo dentro do Button Box e abas Caminhão, Carreta e Checklist. Baixe em Comunidade › Button Box."
+    "notas": "Zoom por pinça no mapa dos painéis, aba Mídia e sistema de cupons de acesso na tela Conta."
   },
   "programa": {
-    "versao": "1.9.9",
+    "versao": "1.9.10",
     "instalador": "https://github.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/releases/download/Pain%C3%A9is/NexusCockpit_Setup.exe",
-    "notas": "Lê o que toca no PC (Spotify, YouTube) para a aba Mídia, mapa automático pelo perfil do jogo, mapa também no navegador e empresas no mapa."
+    "notas": "O mapa automático agora lê o log do jogo: troca sozinho de mapa ao trocar de perfil (BR, EAA, Elite da Rodagem)."
   },
   "mac": {
     "versao": "1.9.3",
