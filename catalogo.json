@@ -830,6 +830,19 @@
       "miniatura": "miniaturas/nexus_cockpit_a63.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A63.simhubdash",
       "novidades": "Mapa ao vivo dentro do conta-giros, ponteiros de combustível/óleo/temperatura, estrelas = estado do veículo, abas de toque, páginas de dados e manutenção."
+    },
+    {
+      "id": "nexus_cockpit_a65",
+      "nome": "Nexus Cockpit A65",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Nexus Cockpit com mapa ao vivo do app (zoom e centralizar), conta-giros com traços que acendem, velocidade, marcha, status do caminhão (motor, cabine, chassi e rodas), água, óleo, ar e bateria com barrinhas, combustível em 6 segmentos, odômetro, autonomia, carga, distância e consumo. Setas, pisca-alerta e luzes de alerta. 4 modos de condução: as faixas e detalhes mudam de cor com o modo.",
+      "versao": "1.0",
+      "atualizado": "2026-11-24",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 24.2,
+      "miniatura": "miniaturas/nexus_cockpit_a65.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A65.simhubdash",
+      "novidades": "Painel novo."
     }
   ],
   "abas": [
@@ -1056,6 +1069,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-24-a65",
+      "data": "2026-11-24",
+      "titulo": "Novo painel: Nexus Cockpit A65",
+      "texto": "Chegou o Nexus Cockpit A65, com 4 modos de condução, animação de abertura e todas as luzes. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-24-a2-v30",
       "data": "2026-11-24",
