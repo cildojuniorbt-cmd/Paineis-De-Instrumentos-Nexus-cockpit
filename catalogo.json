@@ -19,13 +19,13 @@
       "nome": "Nexus Cockpit A2",
       "autor": "Cildo Jr",
       "descricao": "Painel digital Nexus Truck OS: velocímetro e conta-giros com arcos de luz, marcha (D/M e N/R), cruise control, 9 luzes (setas, pisca-alerta, faróis, neblina, freio de mão, injeção, bateria, temperatura), barra com combustível, água, óleo, bateria, ar dos freios, AdBlue, carga e consumo. 4 modos de condução com cores próprias e varredura ao ligar a chave.",
-      "versao": "3.1",
+      "versao": "3.2",
       "atualizado": "2026-11-24",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 21.2,
+      "tamanhoMB": 21.3,
       "miniatura": "miniaturas/nexus_cockpit_a2_v3.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash",
-      "novidades": "Versão 3.1: números 0 a 80 de volta no velocímetro, marcações limpas nos dois mostradores e miniatura nova. Versão 3.0: painel totalmente novo (Nexus Truck OS) no lugar do A2 antigo."
+      "novidades": "Versão 3.2: pisca-alerta pisca as duas setas juntas e a abertura mostra o logo inteiro. Versão 3.1: números 0 a 80 de volta no velocímetro, marcações limpas nos dois mostradores e miniatura nova. Versão 3.0: painel totalmente novo (Nexus Truck OS) no lugar do A2 antigo."
     },
     {
       "id": "scania_113h",
@@ -836,13 +836,13 @@
       "nome": "Nexus Cockpit A65",
       "autor": "Cildo Jr",
       "descricao": "Painel Nexus Cockpit com mapa ao vivo do app (zoom e centralizar), conta-giros com traços que acendem, velocidade, marcha, status do caminhão (motor, cabine, chassi e rodas), água, óleo, ar e bateria com barrinhas, combustível em 6 segmentos, odômetro, autonomia, carga, distância e consumo. Setas, pisca-alerta e luzes de alerta. 4 modos de condução: as faixas e detalhes mudam de cor com o modo.",
-      "versao": "1.0",
+      "versao": "1.1",
       "atualizado": "2026-11-24",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 24.2,
       "miniatura": "miniaturas/nexus_cockpit_a65.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A65.simhubdash",
-      "novidades": "Painel novo."
+      "novidades": "Versão 1.1: pisca-alerta piscando as duas setas juntas, abertura com o logo inteiro e nome do jogo corrigido. Painel novo."
     }
   ],
   "abas": [
@@ -1069,6 +1069,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-24-a65-v11",
+      "data": "2026-11-24",
+      "titulo": "A65 atualizado",
+      "texto": "Pisca-alerta agora pisca as duas setas e a abertura mostra o logo inteiro. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-24-a65",
       "data": "2026-11-24",
