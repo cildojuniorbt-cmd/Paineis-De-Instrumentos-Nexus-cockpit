@@ -18,14 +18,14 @@
       "id": "nexus_cockpit_a2",
       "nome": "Nexus Cockpit A2",
       "autor": "Cildo Jr",
-      "descricao": "Cluster analógico com 4 modos de condução (Eco azul, Comfort roxo, Sport vermelho, Heavy laranja) e 5 páginas por modo: Cockpit com mapa, computador de bordo, cruise control, manutenção e painel completo. Luzes, logo e abertura ao ligar a chave; o modo acompanha o PC.",
-      "versao": "2.4",
-      "atualizado": "2026-11-12",
+      "descricao": "Painel digital Nexus Truck OS: velocímetro e conta-giros com arcos de luz, marcha (D/M e N/R), cruise control, 9 luzes (setas, pisca-alerta, faróis, neblina, freio de mão, injeção, bateria, temperatura), barra com combustível, água, óleo, bateria, ar dos freios, AdBlue, carga e consumo. 4 modos de condução com cores próprias e varredura ao ligar a chave.",
+      "versao": "3.0",
+      "atualizado": "2026-11-24",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 61.8,
+      "tamanhoMB": 22.4,
       "miniatura": "miniaturas/nexus_cockpit_a2.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash",
-      "novidades": "Ícone da bomba de combustível pisca em amarelo quando o tanque está na reserva. Câmbio mostra M (manual), D (automático) e L/H (caixa baixa/alta)."
+      "novidades": "Versão 3.0: painel totalmente novo (Nexus Truck OS) no lugar do A2 antigo. Em teste: páginas de dados e manutenção chegam em breve."
     },
     {
       "id": "scania_113h",
@@ -1056,6 +1056,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-24-a2-v30",
+      "data": "2026-11-24",
+      "titulo": "A2 de cara nova: Nexus Truck OS",
+      "texto": "O Nexus Cockpit A2 virou um painel digital novo, com arcos de luz, 9 luzes e 4 modos. Pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-18-app-1917",
       "data": "2026-11-18",
