@@ -19,13 +19,13 @@
       "nome": "Nexus Cockpit A2",
       "autor": "Cildo Jr",
       "descricao": "Painel digital Nexus Truck OS: velocímetro e conta-giros com arcos de luz, marcha (D/M e N/R), cruise control, 9 luzes (setas, pisca-alerta, faróis, neblina, freio de mão, injeção, bateria, temperatura), barra com combustível, água, óleo, bateria, ar dos freios, AdBlue, carga e consumo. 4 modos de condução com cores próprias e varredura ao ligar a chave.",
-      "versao": "3.0",
+      "versao": "3.1",
       "atualizado": "2026-11-24",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 22.4,
-      "miniatura": "miniaturas/nexus_cockpit_a2.jpg",
+      "tamanhoMB": 21.2,
+      "miniatura": "miniaturas/nexus_cockpit_a2_v3.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A2.simhubdash",
-      "novidades": "Versão 3.0: painel totalmente novo (Nexus Truck OS) no lugar do A2 antigo. Em teste: páginas de dados e manutenção chegam em breve."
+      "novidades": "Versão 3.1: números 0 a 80 de volta no velocímetro, marcações limpas nos dois mostradores e miniatura nova. Versão 3.0: painel totalmente novo (Nexus Truck OS) no lugar do A2 antigo."
     },
     {
       "id": "scania_113h",
