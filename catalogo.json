@@ -836,13 +836,13 @@
       "nome": "Nexus Cockpit A65",
       "autor": "Cildo Jr",
       "descricao": "Painel Nexus Cockpit com central multimídia estilo CarPlay (Música, YouTube, Mapa ao vivo e mais), conta-giros com traços que acendem, velocidade, marcha, status do caminhão (motor, cabine, chassi e rodas), água, óleo, ar e bateria com barrinhas, combustível em 6 segmentos, odômetro, autonomia, carga, distância e consumo. Setas, pisca-alerta e luzes de alerta. 4 modos de condução: as faixas e detalhes mudam de cor com o modo.",
-      "versao": "2.0",
+      "versao": "2.1",
       "atualizado": "2026-11-25",
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 19.6,
       "miniatura": "miniaturas/nexus_cockpit_a65_v2.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A65.simhubdash",
-      "novidades": "Versão 2.0: visual novo com a central multimídia (estilo CarPlay) no lugar do mapa e do cartão de música. Versão 1.2: multimídia integrada: a janela da esquerda alterna mapa e música (toque na seta de navegação ou na nota musical) e o cartão do meio mostra a música que toca no PC. pisca-alerta piscando as duas setas juntas, abertura com o logo inteiro e nome do jogo corrigido. Painel novo."
+      "novidades": "Versão 2.1: central multimídia do tamanho certo dentro da moldura e com toque liberado. Versão 2.0: visual novo com a central multimídia (estilo CarPlay) no lugar do mapa e do cartão de música. Versão 1.2: multimídia integrada: a janela da esquerda alterna mapa e música (toque na seta de navegação ou na nota musical) e o cartão do meio mostra a música que toca no PC. pisca-alerta piscando as duas setas juntas, abertura com o logo inteiro e nome do jogo corrigido. Painel novo."
     }
   ],
   "abas": [
