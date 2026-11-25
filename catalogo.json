@@ -836,13 +836,13 @@
       "nome": "Nexus Cockpit A65",
       "autor": "Cildo Jr",
       "descricao": "Painel Nexus Cockpit com mapa ao vivo do app (zoom e centralizar), conta-giros com traços que acendem, velocidade, marcha, status do caminhão (motor, cabine, chassi e rodas), água, óleo, ar e bateria com barrinhas, combustível em 6 segmentos, odômetro, autonomia, carga, distância e consumo. Setas, pisca-alerta e luzes de alerta. 4 modos de condução: as faixas e detalhes mudam de cor com o modo.",
-      "versao": "1.1",
-      "atualizado": "2026-11-24",
+      "versao": "1.2",
+      "atualizado": "2026-11-25",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 24.2,
+      "tamanhoMB": 23.1,
       "miniatura": "miniaturas/nexus_cockpit_a65.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A65.simhubdash",
-      "novidades": "Versão 1.1: pisca-alerta piscando as duas setas juntas, abertura com o logo inteiro e nome do jogo corrigido. Painel novo."
+      "novidades": "Versão 1.2: multimídia integrada: a janela da esquerda alterna mapa e música (toque na seta de navegação ou na nota musical) e o cartão do meio mostra a música que toca no PC. pisca-alerta piscando as duas setas juntas, abertura com o logo inteiro e nome do jogo corrigido. Painel novo."
     }
   ],
   "abas": [
@@ -1069,6 +1069,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-25-a65-v12",
+      "data": "2026-11-25",
+      "titulo": "A65 com multimídia",
+      "texto": "A janela do A65 agora alterna mapa e música, e o cartão do meio mostra o que toca no PC. Precisa do app 1.9.5 ou superior; pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-24-a65-v11",
       "data": "2026-11-24",
