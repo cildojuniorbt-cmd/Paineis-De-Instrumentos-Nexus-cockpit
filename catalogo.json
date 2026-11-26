@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": 1,
+  "versaoCatalogo": 2,
   "paineis": [
     {
       "id": "nexus_cockpit",
@@ -848,14 +848,14 @@
       "id": "nexus_cockpit_a66",
       "nome": "Nexus Cockpit A66",
       "autor": "Cildo Jr",
-      "descricao": "Painel digital com o mapa ao vivo como fundo infinito atrás dos mostradores. Conta-giros com marcha, RPM e temperatura; velocímetro com combustível; 14 luzes reais (faróis, auxiliar, lanterna, setas e pisca-alerta, freio de mão, injeção, cruise, diferencial, limpador, retarder, bateria, temperatura); distância e tempo até o destino; dock de multimídia (abrir multimídia, música, anterior, tocar/pausar, próxima e volume). 4 modos de condução.",
-      "versao": "1.0",
+      "descricao": "Painel imersivo: o mapa ao vivo ocupa a tela toda atrás de uma moldura de vidro com dois mostradores (marcha, RPM e temperatura; velocidade e combustível), 14 luzes reais, hora, data, cruise e distância/tempo até o destino. A barra de apps da Nexus Central fica embaixo: Música, Rádio e Spotify abrem um card no meio com o mapa desfocado atrás, o YouTube abre em janela ou em tela cheia, e o Mapa volta para o mapa em tela cheia. 4 modos de condução.",
+      "versao": "1.1",
       "atualizado": "2026-11-26",
       "jogos": "ETS2 / ATS",
-      "tamanhoMB": 23.2,
+      "tamanhoMB": 12.8,
       "miniatura": "miniaturas/nexus_cockpit_a66.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A66.simhubdash",
-      "novidades": "Painel novo."
+      "novidades": "Novo estilo imersivo com a barra da Nexus Central"
     },
     {
       "id": "nexus_cockpit_a67",
