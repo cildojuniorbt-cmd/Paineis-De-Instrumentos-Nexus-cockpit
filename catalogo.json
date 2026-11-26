@@ -854,7 +854,7 @@
       "jogos": "ETS2 / ATS",
       "tamanhoMB": 23.2,
       "miniatura": "miniaturas/nexus_cockpit_a67.jpg",
-      "arquivo": "paineis/nexus_cockpit.A67.simhubdash",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A67.simhubdash",
       "novidades": "Painel novo."
     }
   ],
