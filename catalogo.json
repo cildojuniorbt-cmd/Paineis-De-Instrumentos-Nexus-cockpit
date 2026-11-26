@@ -856,6 +856,45 @@
       "miniatura": "miniaturas/nexus_cockpit_a66.jpg",
       "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A66.simhubdash",
       "novidades": "Painel novo."
+    },
+    {
+      "id": "nexus_cockpit_a67",
+      "nome": "Nexus Cockpit A67",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Nexus Cockpit em estilo esportivo com caminhão em destaque e central multimídia Nexus (Música, YouTube, Mapa e mais): velocidade, rpm, marcha (PRN D), combustível e AdBlue com barrinhas, água e pressão do óleo, carga, eixos, distância, tempo restante e hora de chegada. Setas, pisca-alerta e luzes reais do caminhão. 4 modos de condução.",
+      "versao": "1.0",
+      "atualizado": "2026-11-26",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 18.5,
+      "miniatura": "miniaturas/nexus_cockpit_a67.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A67.simhubdash",
+      "novidades": "Painel novo."
+    },
+    {
+      "id": "nexus_cockpit_a68",
+      "nome": "Nexus Cockpit A68",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Nexus Cockpit em visual claro com conta-giros e velocímetro de anel aceso e central multimídia Nexus no meio: marcha, rpm, temperatura e combustível com barrinhas, distância e tempo até o destino. Setas, pisca-alerta e luzes reais do caminhão. 4 modos de condução.",
+      "versao": "1.0",
+      "atualizado": "2026-11-26",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 23.5,
+      "miniatura": "miniaturas/nexus_cockpit_a68.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A68.simhubdash",
+      "novidades": "Painel novo."
+    },
+    {
+      "id": "nexus_cockpit_a69",
+      "nome": "Nexus Cockpit A69",
+      "autor": "Cildo Jr",
+      "descricao": "Painel Nexus Cockpit com mostradores em leque que acendem do zero até o valor real e central multimídia Nexus no meio: velocidade, rpm, marcha, combustível, temperatura, autonomia, carga, eixos, distância, tempo restante e hora de chegada. Setas, pisca-alerta e luzes reais do caminhão. 4 modos de condução.",
+      "versao": "1.0",
+      "atualizado": "2026-11-26",
+      "jogos": "ETS2 / ATS",
+      "tamanhoMB": 18.2,
+      "miniatura": "miniaturas/nexus_cockpit_a69.jpg",
+      "arquivo": "https://raw.githubusercontent.com/cildojuniorbt-cmd/Paineis-De-Instrumentos-Nexus-cockpit/main/paineis/nexus_cockpit.A69.simhubdash",
+      "novidades": "Painel novo."
     }
   ],
   "abas": [
@@ -1082,6 +1121,13 @@
     "notas": "Primeira versão para Mac: programa, plugin do ETS2/ATS e app de painel."
   },
   "noticias": [
+    {
+      "id": "2026-11-26-a67-a69",
+      "data": "2026-11-26",
+      "titulo": "3 painéis novos com a central multimídia",
+      "texto": "Chegaram os painéis Nexus Cockpit A67, A68 e A69, todos com a central multimídia Nexus integrada. Pode levar uns 5 minutos para o GitHub atualizar.",
+      "onde": "programa"
+    },
     {
       "id": "2026-11-26-a66",
       "data": "2026-11-26",
